@@ -22,12 +22,6 @@
         </td>
         </td>
         <td align="center">
-            <a href="https://github.com/pfc15">
-                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/52254091?v=4" width="150px;"/>
-                <h5 class="text-center">PEDRO FONSECA CRUZ</h5>
-            </a>
-        </td>
-        <td align="center">
             <a href="https://github.com/pedromadbr">
                 <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/64806397?v=4" width="150px;"/>
                 <h5 class="text-center">Pedro Miguel Martins de Oliveira dos Santos</h5>
