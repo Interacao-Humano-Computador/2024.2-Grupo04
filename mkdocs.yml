@@ -14,7 +14,9 @@ theme:
 nav:
   - Home: index.md
   - "Entregas":
-    - entregas/entrega1.md
+    - "Entrega 1": entregas/entrega1.md
+  - "Verificações":
+    - "Verificação 1": avaliacoes/avaliacao1.md
 
 markdown_extensions:
   - tables
