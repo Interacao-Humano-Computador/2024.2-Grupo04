@@ -1,4 +1,4 @@
-###Tabela 1: Avaliação da entrega 1
+###Tabela 1: Avaliação da entrega 1 do grupo 5
 
 |                                         | Questão: O github pages possui:                                                                                                                                                                    | Resposta (sim/não/incompleto) | Versão, data e horário da avaliação |
 | --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ----------------------------------- |
@@ -20,3 +20,15 @@
 |                                         | 8 – A gravação da reunião do grupo.                                                                                                                                                                | sim                           | 1.0, 13/11/2024, 22:44              |
 |                                         | 9 - Vídeo de apresentação na categoria “não listado” no youtube?                                                                                                                                   | sim                           | 1.0, 13/11/2024, 22:45              |
 | Itens do conteúdo da disciplina         | A justificativa da escolha do Processo de  Design?                                                                                                                                                 | sim                           | 1.0, 13/11/2024, 22:48              |
+
+Fonte: [José Oliveira](https://github.com/Jose1277)
+
+## Bibliografia
+
+- [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf) Disciplina Interação Humano Computador, Dr. André Barros de Sales.
+
+## Histórico de versões
+
+| Versão |     Descrição      |                     Autor(es)                     |    Data    |                     Revisor(es)                     | Data de revisão |
+| :----: | :----------------: | :-----------------------------------------------: | :--------: | :-------------------------------------------------: | :-------------: |
+|  1.0   | Realização da avaliação | [José Oliveira](https://github.com/Jose1277) | 13/11/2024 | [José Oliveira](https://github.com/Jose1277) |   13/11/2024   |
