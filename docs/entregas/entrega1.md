@@ -1,4 +1,4 @@
-###Lista de sites avaliados
+### Lista de sites avaliados
 - BRModelo
 - Cheers
 - Sympla
@@ -6,19 +6,19 @@
 - Cinemark
 - Olimpíada Brasileira de Astronomia e Astrofísica (OBA)
 
-###Site selecionado
+### Site selecionado
 - Cinemark
 
-###Ferramentas Utilizadas 
+### Ferramentas Utilizadas 
 - Draw.io
 - Figma
 - Git Pages
 - Mk Docs
 
-###Processo de Design
+### Processo de Design
 - Design de Experiência
 
-###Cronograma para entrega 1
+### Cronograma para entrega 1
 <table>
         <thead>
             <tr>

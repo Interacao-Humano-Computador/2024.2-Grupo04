@@ -1,4 +1,4 @@
-site_name: IHC - Grupo 4
+site_name: CINEMARK
 site_description: Site voltado para a documentação do Grupo 4 
 repo_url: https://github.com/Interacao-Humano-Computador/2024.2-Grupo04
 repo_name: 2024.2-Grupo04
@@ -19,6 +19,8 @@ nav:
     - "Verificação 1": avaliacoes/avaliacao1.md
   - "Atas": 
     - "Reunião 1": Atas/ata1.md
+  - "Planejamento":
+    - "Sites avaliados": Planejamento/Sitesavaliados.md
 
 markdown_extensions:
   - tables
