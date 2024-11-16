@@ -1,10 +1,9 @@
-# Grupo 04 - Interação Humano-Computador - 2024.2
+# Grupo 04 - IHC - 2024.2
 
 
 # Descrição
 
-# Grupo
-###integrantes do grupo:
+## Integrantes do Grupo:
 |Matricula | Nome                                 |
 |--------- |--------------------------------------|
 |211031566 | Ana Joyce Guedes Amorim da Silva     |
