@@ -46,4 +46,5 @@ jobs:
           git config --global user.email "actions@github.com"
           git add .
           git commit -m "Deploy updates to GitHub Pages"
+          git push --set-upstream origin main
           git push
