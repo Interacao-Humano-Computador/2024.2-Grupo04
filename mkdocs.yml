@@ -13,6 +13,10 @@ theme:
 
 nav:
   - Home: index.md
-  - Sobre: about.md
-  - Entregas: entregas/index.md
-  - Inspeções: inspecoes/index.md
+  - "Entregas":
+    - "Entrega 1": entregas/entrega1.md
+  - "Verificações":
+    - "Verificação 1": avaliacoes/avaliacao1.md
+
+markdown_extensions:
+  - tables
