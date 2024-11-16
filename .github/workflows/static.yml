@@ -1,50 +1,23 @@
-name: Deploy MkDocs site to GitHub Pages
-
+name: static
 on:
   push:
     branches:
-      - main  # Aciona o workflow sempre que houver um push na branch main
-
+      - master 
+      - main
+permissions:
+  contents: write
 jobs:
-  build:
-    name: Build and deploy MkDocs site
+  deploy:
     runs-on: ubuntu-latest
-
     steps:
-      # 1. Checar o repositório
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      # 2. Configurar Python
-      - name: Set up Python
-        uses: actions/setup-python@v3
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
         with:
-          python-version: '3.9'  # Ou qualquer versão que você preferir
-
-      # 3. Instalar dependências
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install mkdocs  # Instala o MkDocs
-          pip install mkdocs-material  # Se você estiver usando o tema "Material"
-
-      # 4. Construir o site com o MkDocs
-      - name: Build the MkDocs site
-        run: mkdocs build --site-dir ./gh-pages  # Gera os arquivos estáticos na pasta gh-pages
-
-      # 5. Publicar o site no GitHub Pages
-      - name: Deploy to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@v4
+          python-version: 3.x
+      - uses: actions/cache@v2
         with:
-          branch: gh-pages  # A branch de destino
-          folder: gh-pages  # Pasta contendo os arquivos do site gerado
-
-      # 6. Ações de commit (opcional, caso precise fazer commit das mudanças)
-      - name: Commit files if necessary
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git add .
-          git commit -m "Deploy updates to GitHub Pages"
-          git push --set-upstream origin main
-          git push
+          key: ${{ github.ref }}
+          path: .cache
+      - run: pip install mkdocs-material
+      - run: mkdocs build
+      - run: mkdocs gh-deploy --force
