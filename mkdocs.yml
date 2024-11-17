@@ -6,44 +6,46 @@ repo_name: 2024.2-Grupo04
 
 nav:
   - Sobre: index.md
-  - Planejamento: planejamento.md
+  - Planejamento:
+    - "Cronograma": planejamento/cronograma.md
+    - "Sites Avaliados": planejamento/sites-avaliados.md
+    - "Ferramentas": planejamento/ferramentas.md
   - "Verificações":
     - "Verificação 1": avaliacoes/avaliacao1.md
-
-
+  - "Atas":
+    - "Ata 1": atas/ata1.md
 
 theme:
   name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.footer
 
-  # Turn off Previous/Next navigation links in the navbar
   disable_nav_previous_next: true
 
   palette: 
-
-    # Palette toggle for light mode
     - scheme: default
       toggle:
         icon: material/brightness-7 
-        name: Switch to dark mode
+        name: Trocar para modo escuro
 
-    # Palette toggle for dark mode
     - scheme: slate
       toggle:
         icon: material/brightness-4
-        name: Switch to light mode
+        name: Trocar para modo claro
 
-nav:
-  - Home: index.md
-  - "Entregas":
-    - "Entrega 1": entregas/entrega1.md
-  - "Verificações":
-    - "Verificação 1": avaliacoes/avaliacao1.md
-  - "Atas": 
-    - "Reunião 1": Atas/ata1.md
-  - "Planejamento":
-    - "Sites avaliados": Planejamento/Sitesavaliados.md
+  favicon: assets/cinemark-icon.png
+  logo: assets/cinemark-icon.png
+  
 
 markdown_extensions:
   - tables
+  - attr_list
+  - md_in_html
+
 
 extra_css: [stylesheets/extra.css]

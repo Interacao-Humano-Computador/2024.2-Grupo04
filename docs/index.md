@@ -48,3 +48,7 @@ Link:<a href="https://www.cinemark.com.br/"> <h5>www.cinemark.com.br</h5> </a>
         </td>
 
 </table>
+
+| Versão |     Descrição      |                     Autor(es)                     |    Data    |                     Revisor(es)                     | Data de revisão |
+| :----: | :----------------: | :-----------------------------------------------: | :--------: | :-------------------------------------------------: | :-------------: |
+|  1.0   | Criação da apresentaçao do grupo | [Anne Capdeville](https://github.com/nanecapde) | 16/11/2024 | [José Oliveira](https://github.com/Jose1277) |   17/11/2024   |
