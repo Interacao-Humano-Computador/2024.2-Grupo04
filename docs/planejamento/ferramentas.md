@@ -1,6 +1,7 @@
 ## Introdução
 Nesta página estão contidos as ferramentas utilizadas e uma descrição de como serão utilizados para o desenvolvimento do projeto da disciplina de IHC
 
+<p>Tabela 1: Ferramentas utilizadas no projeto</p>
 | Logo                                                | Ferramenta               | Uso                                                                                                         |
 | --------------------------------------------------- | ------------------------ | ----------------------------------------------------------------------------------------------------------------- |
 | ![logo git](../assets/ferramentas/git-icon.png) {: style="height: 10px; width: 10px"} | Git               | Versionamento e contribuição em grupo para o projeto.|
@@ -16,7 +17,7 @@ Nesta página estão contidos as ferramentas utilizadas e uma descrição de com
 | ![logo whatsapp](../assets/ferramentas/whatsapp-icon.png) {: style="height: 10px; width: 10px"} | Whatsapp              | Comunicação veloz entre os membros.|
 | ![logo discord](../assets/ferramentas/discord-icon.png) {: style="height: 10px; width: 10px"} | Discord              | Plataforma de comunicação para fazer as reuniões.|
 
-## Biblioografia
+## Bibliografia
 
 - [Git](https://git-scm.com/)
 - [GitHub](https://github.com/)

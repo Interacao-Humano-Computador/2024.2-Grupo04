@@ -11,7 +11,10 @@ nav:
     - "Sites Avaliados": planejamento/sites-avaliados.md
     - "Ferramentas": planejamento/ferramentas.md
   - "Verificações":
-    - "Verificação 1": avaliacoes/avaliacao1.md
+    - "Entrega 1":
+      - "Lista de verificação": avaliacoes/entrega1/avaliacao.md
+      - "Lista de verificação grupo 5": avaliacoes/entrega1/avaliacao+1.md
+
   - "Atas":
     - "Ata 1": atas/ata1.md
 

@@ -1,4 +1,7 @@
-###Tabela 1: Avaliação da entrega 1 do grupo 5
+## Introdução
+Nesta página está contido a avaliação da primeira entrega do grupo 5
+
+<p>Tabela 1: Avaliação da entrega 1 do grupo 5</p>
 
 |                                         | Questão: O github pages possui:                                                                                                                                                                    | Resposta (sim/não/incompleto) | Versão, data e horário da avaliação |
 | --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ----------------------------------- |
