@@ -8,7 +8,7 @@ Nesta página estão contidos as ferramentas utilizadas e uma descrição de com
 | ![logo github pages](../assets/ferramentas/github-pages-icon.png) {: style="height: 10px; width: 10px"} | Github pages               | Deploy fácil diretamente do repositório.       |
 | ![logo mkdocs](../assets/ferramentas/mkdocs-icon.png) {: style="height: 10px; width: 10px"} | MKdocs              | Criação de páginas estáticas.|
 | ![logo figma](../assets/ferramentas/figma-icon.png) {: style="height: 10px; width: 10px"} | Figma              | Criação de prototipos e elaboração de designs.|
-| ![logo drawio](../assets/ferramentas/figma-icon.png) {: style="height: 10px; width: 10px"} | Draw.io              | Diagramação das ideias.|
+| ![logo drawio](../assets/ferramentas/drawio-icon.png) {: style="height: 10px; width: 10px"} | Draw.io              | Diagramação das ideias.|
 | ![logo vscode](../assets/ferramentas/vscode-icon.png) {: style="height: 10px; width: 10px"} | Vscode              | Editor de texto para criar as páginas estáticas.|
 | ![logo sheets](../assets/ferramentas/google-sheets-icon.png) {: style="height: 20px; width: 20px"} | Google Sheets              | Editor online em grupo de planilhas.|
 | ![logo obs](../assets/ferramentas/obs-icon.png) {: style="height: 10px; width: 10px"} | OBS              | Gravar as reuniões.|
