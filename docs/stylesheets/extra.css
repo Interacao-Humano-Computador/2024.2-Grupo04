@@ -1,0 +1,27 @@
+[data-md-color-scheme="light-mode"] .md-content a {
+  color: #ee1800 !important;
+  text-decoration: underline !important;
+}
+
+[data-md-color-scheme="light-mode"] .md-content a:visited {
+  color: #a12600 !important;
+}
+
+[data-md-color-scheme="light-mode"] .md-content a:hover {
+  color: #ff1e1e !important;
+  text-decoration: underline !important;
+}
+
+[data-md-color-scheme="dark-mode"] .md-content a {
+  color: #bb87eb !important;
+  text-decoration: underline !important;
+}
+
+[data-md-color-scheme="dark-mode"] .md-content a:visited {
+  color: #c670db !important;
+}
+
+[data-md-color-scheme="dark-mode"] .md-content a:hover {
+  color: #e6adad !important;
+  text-decoration: underline !important;
+}

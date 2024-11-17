@@ -1,4 +1,5 @@
-# 2024.2-Grupo04
+# Grupo 04 - Interação Humano-Computador - 2024.2
+
 <center>
 <table style="margin-left: auto; margin-right: auto;">
     <tr>

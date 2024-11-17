@@ -1,15 +1,36 @@
-site_name: CINEMARK
-site_description: Site voltado para a documentação do Grupo 4 
+site_name: IHC - Grupo 4
+site_author: Ana, Anne, José e Pedro
+site_description: Site voltado para a documentação do Grupo 4 sobre Interação Humano-Computador
 repo_url: https://github.com/Interacao-Humano-Computador/2024.2-Grupo04
 repo_name: 2024.2-Grupo04
+
+nav:
+  - Sobre: index.md
+  - Planejamento: planejamento.md
+  - "Verificações":
+    - "Verificação 1": avaliacoes/avaliacao1.md
 
 
 
 theme:
-  name: null
-  custom_dir: 'cinder'
-  color_mode: auto
-  user_color_mode_toggle: true
+  name: material
+
+  # Turn off Previous/Next navigation links in the navbar
+  disable_nav_previous_next: true
+
+  palette: 
+
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
 
 nav:
   - Home: index.md
@@ -24,3 +45,5 @@ nav:
 
 markdown_extensions:
   - tables
+
+extra_css: [stylesheets/extra.css]

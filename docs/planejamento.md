@@ -1,22 +1,4 @@
-### Lista de sites avaliados
-- BRModelo
-- Cheers
-- Sympla
-- Tickets for Fun
-- Cinemark
-- Olimpíada Brasileira de Astronomia e Astrofísica (OBA)
 
-### Site selecionado
-- Cinemark
-
-### Ferramentas Utilizadas 
-- Draw.io
-- Figma
-- Git Pages
-- Mk Docs
-
-### Processo de Design
-- Design de Experiência
 
 ### Cronograma para entrega 1
 <table>
@@ -223,3 +205,31 @@
         </tbody>
     </table>
 
+
+
+### Sites avaliados
+- BRModelo
+- Cheers
+- Sympla
+- Tickets for Fun
+- Cinemark
+- Olimpíada Brasileira de Astronomia e Astrofísica (OBA)
+
+### Site selecionado
+- Cinemark
+
+### Ferramentas Utilizadas 
+- Draw.io
+- Figma
+- Git Pages
+- Mk Docs
+
+### Processo de Design
+- Design de Experiência
+
+## Histórico de versão
+
+| Versão | Data       | Descrição                                   | Autor(es)                                     | Revisor(es)                                  |
+| ------ | ---------- | ------------------------------------------- | --------------------------------------------- | -------------------------------------------- |
+| 1.0    | 12/11/2024 | Estrutura da documentação                   | [José Felipe](https://github.com/Jose1277)    | - -                                          |
+| 1.1    | 16/11/2024 | Adição de avaliação de site feita por Pedro | [Pedro Miguel](https://github.com/pedroMADBR) |                                              |
