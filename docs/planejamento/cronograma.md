@@ -1,6 +1,9 @@
-
+## Introdução 
+Nesta página estão contidos os cronogramas planejados para a disciplina de IHC do semestre 2024.2, com as atividades a serem realizadas e os responsáveis por cada uma delas.
 
 ### Cronograma para entrega 1
+#### Planejado
+<p style="text-align:center">Tabela 1: Cronograma planejado para a entrega 1</p>
 <table>
         <thead>
             <tr>
@@ -92,8 +95,8 @@
         </tbody>
     </table>
 
-###Cronograma para entrega 2
-
+### Cronograma para entrega 2
+<p style="text-align:center">Tabela 2: Cronograma planejado para a entrega 2</p>
 <table>
         <thead>
             <tr>
@@ -204,28 +207,6 @@
             </tr>
         </tbody>
     </table>
-
-
-
-### Sites avaliados
-- BRModelo
-- Cheers
-- Sympla
-- Tickets for Fun
-- Cinemark
-- Olimpíada Brasileira de Astronomia e Astrofísica (OBA)
-
-### Site selecionado
-- Cinemark
-
-### Ferramentas Utilizadas 
-- Draw.io
-- Figma
-- Git Pages
-- Mk Docs
-
-### Processo de Design
-- Design de Experiência
 
 ## Histórico de versão
 
