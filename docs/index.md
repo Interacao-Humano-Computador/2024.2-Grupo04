@@ -55,5 +55,5 @@ Projeto voltado para a vivência em Iteração Humano Computador, disciplina min
 | Versão |     Descrição      |                     Autor(es)                     |    Data    |                     Revisor(es)                     | Data de revisão |
 | :----: | :----------------: | :-----------------------------------------------: | :--------: | :-------------------------------------------------: | :-------------: |
 |  1.0   | Criação da apresentaçao do grupo | [Anne Capdeville](https://github.com/nanecapde) | 16/11/2024 | [José Oliveira](https://github.com/Jose1277) |   17/11/2024   |
-|  1.1   | Integrantes do grupo | [Anne Capdeville](https://github.com/nanecapde) | 17/11/2024 | [José Oliveira](https://github.com/Jose1277) |     |
+|  1.1   | Integrantes do grupo | [Anne Capdeville](https://github.com/nanecapde) | 17/11/2024 | [José Oliveira](https://github.com/Jose1277) |  18/11/2024   |
 |  1.2   | Add logo | [Ana Joyce](https://github.com/anajoyceamorim) | 18/11/2024 | [José Oliveira](https://github.com/Jose1277) |   18/11/2024   |
