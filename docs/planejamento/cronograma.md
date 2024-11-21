@@ -1,14 +1,15 @@
 ## Introdução 
+
 Nesta página estão contidos os cronogramas planejados para a disciplina de IHC do semestre 2024.2, com as atividades a serem realizadas e os responsáveis por cada uma delas.
 
-# Planejamento das Entregas
+## Planejamento das Entregas
 
 ## Entrega 1
 **Fase:** Planejamento do Projeto  
 **Data de entrega:** 12/11/2024  
 
-| Atividade                   | Desenvolvimento | Responsáveis | Revisão       | Revisores |
-|-----------------------------|-----------------|--------------|---------------|-----------|
+| Atividade                      | Desenvolvimento | Responsáveis | Revisão         | Revisores |
+|--------------------------------|-----------------|--------------|-----------------|-----------|
 | Heatmap                     | 19/10 - 01/11   | [Pedro Miguel](https://github.com/pedroMADBR)        | 01/11 - 12/11 | [Pedro Miguel](https://github.com/pedroMADBR)     |
 | Documentar equipe           | 26/10 - 28/10   | [Pedro Miguel](https://github.com/pedroMADBR)        | 29/10 - 29/10 | [Anne de Capdeville](https://github.com/nanecapde)      |
 | Lista de sites avaliados    | 06/11 - 12/11   | [Ana Joyce](https://github.com/anajoyceamorim), [Anne de Capdeville](https://github.com/nanecapde), [José Felipe](https://github.com/Jose1277) e [Pedro Miguel](https://github.com/pedroMADBR)        | 12/11 - 12/11 | [Ana Joyce](https://github.com/anajoyceamorim), [Anne de Capdeville](https://github.com/nanecapde), [José Felipe](https://github.com/Jose1277) e [Pedro Miguel](https://github.com/pedroMADBR)     |
@@ -27,8 +28,8 @@ Nesta página estão contidos os cronogramas planejados para a disciplina de IHC
 **Fase:** Planejamento do Projeto  
 **Data de entrega:** 26/11/2024  
 
-| Atividade                        | Desenvolvimento | Responsáveis | Revisão       | Revisores |
-|----------------------------------|-----------------|--------------|---------------|-----------|
+| Atividade                      | Desenvolvimento | Responsáveis | Revisão         | Revisores |
+|--------------------------------|-----------------|--------------|-----------------|-----------|
 | Traçar perfil de usuários        | 18/11 - 21/11   | [Ana Joyce](https://github.com/anajoyceamorim), [Anne de Capdeville](https://github.com/nanecapde), [José Felipe](https://github.com/Jose1277) e [Pedro Miguel](https://github.com/pedroMADBR)        | 21/11 - 21/11 | [Ana Joyce](https://github.com/anajoyceamorim), [Anne de Capdeville](https://github.com/nanecapde), [José Felipe](https://github.com/Jose1277) e [Pedro Miguel](https://github.com/pedroMADBR)     |
 | Brainstorming Perfil de usuários | 18/11 - 21/11   | [Ana Joyce](https://github.com/anajoyceamorim), [Anne de Capdeville](https://github.com/nanecapde), [José Felipe](https://github.com/Jose1277) e [Pedro Miguel](https://github.com/pedroMADBR)        | 21/11 - 21/11 | [Ana Joyce](https://github.com/anajoyceamorim), [Anne de Capdeville](https://github.com/nanecapde), [José Felipe](https://github.com/Jose1277) e [Pedro Miguel](https://github.com/pedroMADBR)     |
 | Elicitação dos [Ana Joyce](https://github.com/anajoyceamorim), [Anne de Capdeville](https://github.com/nanecapde), [José Felipe](https://github.com/Jose1277) e [Pedro Miguel](https://github.com/pedroMADBR)s de foco    | 19/11 - 21/11   | [Ana Joyce](https://github.com/anajoyceamorim), [Anne de Capdeville](https://github.com/nanecapde), [José Felipe](https://github.com/Jose1277) e [Pedro Miguel](https://github.com/pedroMADBR)        | 21/11 - 21/11 | [Ana Joyce](https://github.com/anajoyceamorim), [Anne de Capdeville](https://github.com/nanecapde), [José Felipe](https://github.com/Jose1277) e [Pedro Miguel](https://github.com/pedroMADBR)     |
@@ -46,8 +47,8 @@ Nesta página estão contidos os cronogramas planejados para a disciplina de IHC
 **Fase:** Análise de Requisitos
 **Data de entrega:** 03/12/2024  
 
-| Atividade                    | Desenvolvimento | Responsáveis | Revisão       | Revisores    |
-|------------------------------|-----------------|--------------|---------------|--------------|
+| Atividade                      | Desenvolvimento | Responsáveis | Revisão         | Revisores |
+|--------------------------------|-----------------|--------------|-----------------|-----------|
 | Princípios Gerais de Projeto | 29/11 - 30/11   | [Pedro Miguel](https://github.com/pedroMADBR) e [Anne de Capdeville](https://github.com/nanecapde) | 01/12 - 02/12 | [José Felipe](https://github.com/Jose1277) e [Ana Joyce](https://github.com/anajoyceamorim)   |
 | Metas de usabilidade         | 29/11 - 30/11   | [José Felipe](https://github.com/Jose1277) e [Ana Joyce](https://github.com/anajoyceamorim)   | 01/12 - 02/12 | [Pedro Miguel](https://github.com/pedroMADBR) e [Anne de Capdeville](https://github.com/nanecapde) |
 | Guia de estilo               | 30/11 - 01/12   | [Pedro Miguel](https://github.com/pedroMADBR) e [Anne de Capdeville](https://github.com/nanecapde) | 01/12 - 02/12 | [José Felipe](https://github.com/Jose1277) e [Ana Joyce](https://github.com/anajoyceamorim)   |
@@ -64,8 +65,8 @@ Nesta página estão contidos os cronogramas planejados para a disciplina de IHC
 **Fase:** Planejamento do Storyboard
 **Data de entrega:** 10/12/2024  
 
-| Atividade | Desenvolvimento | Responsáveis   | Revisão | Revisores   |
-|------------------------|-----------------------------|----------------|---------------------|-------------|
+| Atividade                      | Desenvolvimento | Responsáveis | Revisão         | Revisores |
+|--------------------------------|-----------------|--------------|-----------------|-----------|
 | Planejamento da avaliação do storyboard | 06/12 - 08/12 | [Pedro Miguel](https://github.com/pedroMADBR) e [Ana Joyce](https://github.com/anajoyceamorim) | 08/12 - 08/12 | [José Felipe](https://github.com/Jose1277) e [Anne de Capdeville](https://github.com/nanecapde) |
 | Planejamento da avaliação da análise de tarefas | 06/12 - 08/12 | [José Felipe](https://github.com/Jose1277) e [Anne de Capdeville](https://github.com/nanecapde) | 08/12 - 08/12 | [Pedro Miguel](https://github.com/pedroMADBR) e [Ana Joyce](https://github.com/anajoyceamorim) |
 | Planejamento do relato dos resultados da avaliação do storyboard | 08/12 - 09/12 | [Pedro Miguel](https://github.com/pedroMADBR) e [Ana Joyce](https://github.com/anajoyceamorim) | 09/12 - 09/12 | [José Felipe](https://github.com/Jose1277) e [Anne de Capdeville](https://github.com/nanecapde) |
@@ -82,8 +83,8 @@ Nesta página estão contidos os cronogramas planejados para a disciplina de IHC
 **Fase:** Resultados do Storyboard/ Análise de Tarefas e Planejamento do Protótipo de Papel 
 **Data de entrega:** 05/01/2024 
 
-| Atividade             | Desenvolvimento | Responsáveis   | Revisão | Revisores   |
-|------------------------------------|-----------------------------|----------------|---------------------|-------------|
+| Atividade                      | Desenvolvimento | Responsáveis | Revisão         | Revisores |
+|--------------------------------|-----------------|--------------|-----------------|-----------|
 | Relato dos resultados do Storyboard | 16/12 - 20/12 | [José Felipe](https://github.com/Jose1277) e [Pedro Miguel](https://github.com/pedroMADBR)        | 21/12 - 23/12      | [Ana Joyce](https://github.com/anajoyceamorim) e [Anne de Capdeville](https://github.com/nanecapde) |
 | Relato dos resultados da Análise de tarefas | 16/12 - 20/12 | [Ana Joyce](https://github.com/anajoyceamorim) e [Anne de Capdeville](https://github.com/nanecapde) | 21/12 - 23/12 | [José Felipe](https://github.com/Jose1277) e [Pedro Miguel](https://github.com/pedroMADBR) |
 | Planejamento da avaliação do Protótipo de papel      | 21/12 - 03/01 | [Ana Joyce](https://github.com/anajoyceamorim) e [Anne de Capdeville](https://github.com/nanecapde) | 03/01 - 04/01      | [José Felipe](https://github.com/Jose1277) e [Pedro Miguel](https://github.com/pedroMADBR) |
@@ -100,8 +101,8 @@ Nesta página estão contidos os cronogramas planejados para a disciplina de IHC
 **Fase:** Resultados do Protótipo de Papel e Planejamento do Protótipo de Alta Fidelidade
 **Data de entrega:** 14/01/2024 
 
-| Atividade                    | Desenvolvimento | Responsáveis   | Revisão | Revisores   |
-|------------------------------|-----------------|----------------|---------------------|-------------|
+| Atividade                      | Desenvolvimento | Responsáveis | Revisão         | Revisores |
+|--------------------------------|-----------------|--------------|-----------------|-----------|
 | Relato dos resultados do protótipo de papel | 10/01 - 11/01 | [José Felipe](https://github.com/Jose1277) e [Pedro Miguel](https://github.com/pedroMADBR) | 11/01 - 11/01 | [Ana Joyce](https://github.com/anajoyceamorim) e [Anne de Capdeville](https://github.com/nanecapde) |
 | Planejamento da avaliação do protótipo de alta fidelidade | 11/01 - 13/01 | [José Felipe](https://github.com/Jose1277) e [Pedro Miguel](https://github.com/pedroMADBR) | 13/01 - 13/01 | [Ana Joyce](https://github.com/anajoyceamorim) e [Anne de Capdeville](https://github.com/nanecapde) |
 | Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | 12/01 - 14/01 | [Ana Joyce](https://github.com/anajoyceamorim) e [Anne de Capdeville](https://github.com/nanecapde) | 14/01 - 14/01 | [José Felipe](https://github.com/Jose1277) e [Pedro Miguel](https://github.com/pedroMADBR) |
@@ -116,8 +117,8 @@ Nesta página estão contidos os cronogramas planejados para a disciplina de IHC
 **Fase:** Resultados do Protótipo de Alta Fidelidade e Planejamento da Avaliação
 **Data de entrega:** 26/01/2024 
 
-| Atividade       | Desenvolvimento | Responsáveis   | Revisão | Revisores   |
-|------------------------------|-----------------------------|----------------|---------------------|-------------|
+| Atividade                      | Desenvolvimento | Responsáveis | Revisão         | Revisores |
+|--------------------------------|-----------------|--------------|-----------------|-----------|
 | Planejamento da avaliação do protótipo de alta fidelidade | 17/01 - 19/01 | [Pedro Miguel](https://github.com/pedroMADBR) e [Anne de Capdeville](https://github.com/nanecapde) | 19/01 - 19/01 | [Ana Joyce](https://github.com/anajoyceamorim) e [José Felipe](https://github.com/Jose1277) |
 | Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | 20/01 - 22/01 | [Ana Joyce](https://github.com/anajoyceamorim) e [José Felipe](https://github.com/Jose1277) | 22/01 - 22/01 | [Pedro Miguel](https://github.com/pedroMADBR) e [Anne de Capdeville](https://github.com/nanecapde) |
 | Relato dos resultados do protótipo de alta fidelidade | 23/01 - 25/01 | [Ana Joyce](https://github.com/anajoyceamorim) e [José Felipe](https://github.com/Jose1277) | 25/01 - 25/01 | [Pedro Miguel](https://github.com/pedroMADBR) e [Anne de Capdeville](https://github.com/nanecapde) |
@@ -131,8 +132,8 @@ Nesta página estão contidos os cronogramas planejados para a disciplina de IHC
 **Fase:** Verificação dos artefatos
 **Data de entrega:** 10/02/2024 
 
-| Atividade     | Desenvolvimento | Responsáveis | Revisão | Revisores |
-|------------------------------------------|-----------------------------|--------------|---------------------|-----------|
+| Atividade                      | Desenvolvimento | Responsáveis | Revisão         | Revisores |
+|--------------------------------|-----------------|--------------|-----------------|-----------|
 | Relato dos resultados da avaliação do protótipo de alta fidelidade | 28/01 - 28/01 | [Ana Joyce](https://github.com/anajoyceamorim), [Anne de Capdeville](https://github.com/nanecapde), [José Felipe](https://github.com/Jose1277) e [Pedro Miguel](https://github.com/pedroMADBR)        | 28/01 - 28/01      | [Ana Joyce](https://github.com/anajoyceamorim), [Anne de Capdeville](https://github.com/nanecapde), [José Felipe](https://github.com/Jose1277) e [Pedro Miguel](https://github.com/pedroMADBR)     |
 | Verificação dos artefatos   | 01/02 - 03/02 | [Ana Joyce](https://github.com/anajoyceamorim), [Anne de Capdeville](https://github.com/nanecapde), [José Felipe](https://github.com/Jose1277) e [Pedro Miguel](https://github.com/pedroMADBR)        | 03/02 - 03/02      | [Ana Joyce](https://github.com/anajoyceamorim), [Anne de Capdeville](https://github.com/nanecapde), [José Felipe](https://github.com/Jose1277) e [Pedro Miguel](https://github.com/pedroMADBR)     |
 | Gravar vídeo da apresentação             | 28/01 - 28/01 | [Ana Joyce](https://github.com/anajoyceamorim), [Anne de Capdeville](https://github.com/nanecapde), [José Felipe](https://github.com/Jose1277) e [Pedro Miguel](https://github.com/pedroMADBR)        | 28/01 - 28/01      | [Ana Joyce](https://github.com/anajoyceamorim), [Anne de Capdeville](https://github.com/nanecapde), [José Felipe](https://github.com/Jose1277) e [Pedro Miguel](https://github.com/pedroMADBR)     |
