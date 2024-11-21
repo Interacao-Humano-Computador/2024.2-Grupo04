@@ -10,8 +10,14 @@ A princípio, não há um horário em que todos estão disponíveis para se reun
 
 ### Figura 1 - Mapa de Energia do Grupo 4
 ![Mapa de energia do grupo 4](../assets/img/mapadeenergia_Grupo4.png)
-Autor: [Pedro Miguel](https://github.com/pedromadbr)
+Autor: [Pedro Miguel](https://github.com/pedroMADBR)
 
 ## Referências Bibliograficas
 
 WHEN2MEET. Plan a new event. Disponível em: https://www.when2meet.com/?27244135-7TYFk. WHEN2MEET, 2024. Acesso em: 20 nov. 2024
+
+## Histórico de versão
+
+| Versão | Data       | Descrição        | Autor(es)          | Revisor(es)       |
+| ------ | ---------- | ---------------- | ------------------ | ------------------------------ |
+| 1.0    | 20/11/2024 | Adição do mapa de energia | [Pedro Miguel](https://github.com/pedroMADBR) |  |
