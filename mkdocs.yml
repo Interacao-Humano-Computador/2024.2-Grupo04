@@ -42,8 +42,8 @@ theme:
         icon: material/brightness-4
         name: Trocar para modo claro
 
-  favicon: assets/cinemark-icon.png
-  logo: assets/cinemark-icon.png
+  favicon: assets/favicon.ico
+  logo: assets/favicon.ico
   
 
 markdown_extensions:
