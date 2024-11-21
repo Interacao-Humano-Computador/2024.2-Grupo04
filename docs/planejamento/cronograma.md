@@ -142,11 +142,9 @@ Nesta página estão contidos os cronogramas planejados para a disciplina de IHC
 | Correções da entrega        | 30/01 - 31/01 | [Ana Joyce](https://github.com/anajoyceamorim), [Anne de Capdeville](https://github.com/nanecapde), [José Felipe](https://github.com/Jose1277) e [Pedro Miguel](https://github.com/pedroMADBR)        | 01/02 - 01/02      | [Ana Joyce](https://github.com/anajoyceamorim), [Anne de Capdeville](https://github.com/nanecapde), [José Felipe](https://github.com/Jose1277) e [Pedro Miguel](https://github.com/pedroMADBR)     |
 | Entrega final | 10/02 - 10/02 | [Ana Joyce](https://github.com/anajoyceamorim), [Anne de Capdeville](https://github.com/nanecapde), [José Felipe](https://github.com/Jose1277) e [Pedro Miguel](https://github.com/pedroMADBR)        | 08/02 - 09/02      | [Ana Joyce](https://github.com/anajoyceamorim), [Anne de Capdeville](https://github.com/nanecapde), [José Felipe](https://github.com/Jose1277) e [Pedro Miguel](https://github.com/pedroMADBR)     |
 
-[Ana Joyce](https://github.com/anajoyceamorim), [Anne de Capdeville](https://github.com/nanecapde), [José Felipe](https://github.com/Jose1277) e [Pedro Miguel](https://github.com/pedroMADBR)
-
 ## Histórico de versão
 
 | Versão | Data       | Descrição        | Autor(es)          | Revisor(es)       |
 | ------ | ---------- | ------------------------------------------- | --------------------------------------------- | -------------------------------------------- |
 | 1.0    | 12/11/2024 | Estrutura da documentação      | [José Felipe](https://github.com/Jose1277) | - - |
-| 2.0    | 19/11/2024 | Atualização do cronograma | [Pedro Miguel](https://github.com/pedroMADBR) e [Ana Joyce](https://github.com/anajoyceamorim) |     |
+| 2.0    | 19/11/2024 | Atualização do cronograma | [Pedro Miguel](https://github.com/pedroMADBR) e [Ana Joyce](https://github.com/anajoyceamorim) |   [Anne de Capdeville](https://github.com/nanecapde)  |
