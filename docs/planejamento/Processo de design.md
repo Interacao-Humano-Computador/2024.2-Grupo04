@@ -35,10 +35,10 @@ Os processos de design de IHC utilizam uma variedade de abordagens e métodos, c
 ---
 
 #### **Design Contextual**
-Focado em entender o contexto real de uso, incluindo:
-- **Investigação contextual**: Identificar usuários, objetivos e ambientes.
-- **Modelagem do trabalho**: Mapear fluxos, artefatos e aspectos culturais.
-- **Consolidação e reprojeto**: Refinar o design para atender melhor às necessidades identificadas.
+Focado em entender o contexto real de uso, incluindo:  
+- **Investigação contextual**: Identificar usuários, objetivos e ambientes.  
+- **Modelagem do trabalho**: Mapear fluxos, artefatos e aspectos culturais.  
+- **Consolidação e reprojeto**: Refinar o design para atender melhor às necessidades identificadas.  
 - **Prototipação e testes**: Validar soluções diretamente com os usuários.
 
 ---
@@ -87,4 +87,4 @@ BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Planejamento da avalia
 
 | Versão |     Descrição      |                     Autor(es)                     |    Data    |                     Revisor(es)                     | Data de revisão |
 | :----: | :----------------: | :-----------------------------------------------: | :--------: | :-------------------------------------------------: | :-------------: |
-|  1.0   | Criação da página e conteúdo | [Ana Joyce](https://github.com/anajoyceamorim) | 19/11/2024 | [Nome](https://github.com/github) |   19/11/2024   |
+|  1.0   | Criação da página e conteúdo | [Ana Joyce](https://github.com/anajoyceamorim) | 19/11/2024 | [Pedro Miguel](https://github.com/pedroMADBR) |   19/11/2024   |
