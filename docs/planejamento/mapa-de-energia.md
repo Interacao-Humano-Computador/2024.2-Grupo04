@@ -20,4 +20,4 @@ WHEN2MEET. Plan a new event. Disponível em: https://www.when2meet.com/?27244135
 
 | Versão | Data       | Descrição        | Autor(es)          | Revisor(es)       |
 | ------ | ---------- | ---------------- | ------------------ | ------------------------------ |
-| 1.0    | 20/11/2024 | Adição do mapa de energia | [Pedro Miguel](https://github.com/pedroMADBR) |  |
+| 1.0    | 20/11/2024 | Adição do mapa de energia | [Pedro Miguel](https://github.com/pedroMADBR) | [Ana Joyce](https://github.com/anajoyceamorim) |
