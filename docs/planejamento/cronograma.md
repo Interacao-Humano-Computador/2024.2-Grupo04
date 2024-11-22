@@ -115,38 +115,4 @@ Nesta página estão contidos os cronogramas planejados para a disciplina de IHC
 
 ## Entrega 7
 **Fase:** Resultados do Protótipo de Alta Fidelidade e Planejamento da Avaliação
-**Data de entrega:** 26/01/2024 
-
-| Atividade                      | Desenvolvimento | Responsáveis | Revisão         | Revisores |
-|--------------------------------|-----------------|--------------|-----------------|-----------|
-| Planejamento da avaliação do protótipo de alta fidelidade | 17/01 - 19/01 | [Pedro Miguel](https://github.com/pedroMADBR) e [Anne de Capdeville](https://github.com/nanecapde) | 19/01 - 19/01 | [Ana Joyce](https://github.com/anajoyceamorim) e [José Felipe](https://github.com/Jose1277) |
-| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | 20/01 - 22/01 | [Ana Joyce](https://github.com/anajoyceamorim) e [José Felipe](https://github.com/Jose1277) | 22/01 - 22/01 | [Pedro Miguel](https://github.com/pedroMADBR) e [Anne de Capdeville](https://github.com/nanecapde) |
-| Relato dos resultados do protótipo de alta fidelidade | 23/01 - 25/01 | [Ana Joyce](https://github.com/anajoyceamorim) e [José Felipe](https://github.com/Jose1277) | 25/01 - 25/01 | [Pedro Miguel](https://github.com/pedroMADBR) e [Anne de Capdeville](https://github.com/nanecapde) |
-| Gravar vídeo da apresentação | 25/01 - 26/01 | [Ana Joyce](https://github.com/anajoyceamorim), [Anne de Capdeville](https://github.com/nanecapde), [José Felipe](https://github.com/Jose1277) e [Pedro Miguel](https://github.com/pedroMADBR)          | 26/01 - 26/01      | [Ana Joyce](https://github.com/anajoyceamorim), [Anne de Capdeville](https://github.com/nanecapde), [José Felipe](https://github.com/Jose1277) e [Pedro Miguel](https://github.com/pedroMADBR)       |
-| Verificação geral da entrega | 26/01 - 26/01 | [Pedro Miguel](https://github.com/pedroMADBR)          | 26/01 - 26/01      | [Ana Joyce](https://github.com/anajoyceamorim)         |
-| Inspeção do grupo 5          | 27/01 - 27/01 | [Pedro Miguel](https://github.com/pedroMADBR)          | 27/01 - 27/01      | [Ana Joyce](https://github.com/anajoyceamorim)         |
-| Apresentação em aula         | 26/01 - 26/01 | [Ana Joyce](https://github.com/anajoyceamorim), [Anne de Capdeville](https://github.com/nanecapde), [José Felipe](https://github.com/Jose1277) e [Pedro Miguel](https://github.com/pedroMADBR)          | 26/01 - 26/01      | [Ana Joyce](https://github.com/anajoyceamorim), [Anne de Capdeville](https://github.com/nanecapde), [José Felipe](https://github.com/Jose1277) e [Pedro Miguel](https://github.com/pedroMADBR)       |
-| Correções da entrega         | 28/01 - 29/01 | [Ana Joyce](https://github.com/anajoyceamorim), [Anne de Capdeville](https://github.com/nanecapde), [José Felipe](https://github.com/Jose1277) e [Pedro Miguel](https://github.com/pedroMADBR)          | 30/01 - 30/01      | [Ana Joyce](https://github.com/anajoyceamorim), [Anne de Capdeville](https://github.com/nanecapde), [José Felipe](https://github.com/Jose1277) e [Pedro Miguel](https://github.com/pedroMADBR)       |
-
-## Entrega 8
-**Fase:** Verificação dos artefatos
-**Data de entrega:** 10/02/2024 
-
-| Atividade                      | Desenvolvimento | Responsáveis | Revisão         | Revisores |
-|--------------------------------|-----------------|--------------|-----------------|-----------|
-| Relato dos resultados da avaliação do protótipo de alta fidelidade | 28/01 - 28/01 | [Ana Joyce](https://github.com/anajoyceamorim), [Anne de Capdeville](https://github.com/nanecapde), [José Felipe](https://github.com/Jose1277) e [Pedro Miguel](https://github.com/pedroMADBR)        | 28/01 - 28/01      | [Ana Joyce](https://github.com/anajoyceamorim), [Anne de Capdeville](https://github.com/nanecapde), [José Felipe](https://github.com/Jose1277) e [Pedro Miguel](https://github.com/pedroMADBR)     |
-| Verificação dos artefatos   | 01/02 - 03/02 | [Ana Joyce](https://github.com/anajoyceamorim), [Anne de Capdeville](https://github.com/nanecapde), [José Felipe](https://github.com/Jose1277) e [Pedro Miguel](https://github.com/pedroMADBR)        | 03/02 - 03/02      | [Ana Joyce](https://github.com/anajoyceamorim), [Anne de Capdeville](https://github.com/nanecapde), [José Felipe](https://github.com/Jose1277) e [Pedro Miguel](https://github.com/pedroMADBR)     |
-| Gravar vídeo da apresentação             | 28/01 - 28/01 | [Ana Joyce](https://github.com/anajoyceamorim), [Anne de Capdeville](https://github.com/nanecapde), [José Felipe](https://github.com/Jose1277) e [Pedro Miguel](https://github.com/pedroMADBR)        | 28/01 - 28/01      | [Ana Joyce](https://github.com/anajoyceamorim), [Anne de Capdeville](https://github.com/nanecapde), [José Felipe](https://github.com/Jose1277) e [Pedro Miguel](https://github.com/pedroMADBR)     |
-| Verificação geral da entrega             | 28/01 - 28/01 | [Anne de Capdeville](https://github.com/nanecapde)         | 28/01 - 28/01      | [José Felipe](https://github.com/Jose1277)      |
-| Inspeção do grupo 5         | 29/01 - 29/01 | [Anne de Capdeville](https://github.com/nanecapde)         | 29/01 - 29/01      | [José Felipe](https://github.com/Jose1277)      |
-| Apresentação em aula        | 28/01 - 28/01 | [Ana Joyce](https://github.com/anajoyceamorim), [Anne de Capdeville](https://github.com/nanecapde), [José Felipe](https://github.com/Jose1277) e [Pedro Miguel](https://github.com/pedroMADBR)        | 28/01 - 28/01      | [Ana Joyce](https://github.com/anajoyceamorim), [Anne de Capdeville](https://github.com/nanecapde), [José Felipe](https://github.com/Jose1277) e [Pedro Miguel](https://github.com/pedroMADBR)     |
-| Correções da entrega        | 30/01 - 31/01 | [Ana Joyce](https://github.com/anajoyceamorim), [Anne de Capdeville](https://github.com/nanecapde), [José Felipe](https://github.com/Jose1277) e [Pedro Miguel](https://github.com/pedroMADBR)        | 01/02 - 01/02      | [Ana Joyce](https://github.com/anajoyceamorim), [Anne de Capdeville](https://github.com/nanecapde), [José Felipe](https://github.com/Jose1277) e [Pedro Miguel](https://github.com/pedroMADBR)     |
-| Entrega final | 10/02 - 10/02 | [Ana Joyce](https://github.com/anajoyceamorim), [Anne de Capdeville](https://github.com/nanecapde), [José Felipe](https://github.com/Jose1277) e [Pedro Miguel](https://github.com/pedroMADBR)        | 08/02 - 09/02      | [Ana Joyce](https://github.com/anajoyceamorim), [Anne de Capdeville](https://github.com/nanecapde), [José Felipe](https://github.com/Jose1277) e [Pedro Miguel](https://github.com/pedroMADBR)     |
-
-## Histórico de versão
-
-| Versão | Data       | Descrição        | Autor(es)          | Revisor(es)       |
-| ------ | ---------- | ------------------------------------------- | --------------------------------------------- | -------------------------------------------- |
-| 1.0    | 12/11/2024 | Estrutura da documentação      | [José Felipe](https://github.com/Jose1277) | - - |
-| 2.0    | 19/11/2024 | Atualização do cronograma | [Pedro Miguel](https://github.com/pedroMADBR) e [Ana Joyce](https://github.com/anajoyceamorim) |   [Anne de Capdeville](https://github.com/nanecapde)  |
-| 2.1    | 20/11/2024 | Correções de atividades | [Pedro Miguel](https://github.com/pedroMADBR) |  |
+**Data de entrega:** 26/
