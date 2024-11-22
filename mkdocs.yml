@@ -12,6 +12,7 @@ nav:
     - "Site Escolhido" : planejamento/site-escolhido.md
     - "Processo de design" : planejamento/Processo de design.md
     - "Ferramentas": planejamento/ferramentas.md
+    - "Mapa de Energia": planejamento/mapa-de-energia.md
   - "Verificações":
     - "Entrega 1":
       - "Lista de verificação": avaliacoes/entrega1/avaliacao.md
@@ -43,8 +44,8 @@ theme:
         icon: material/brightness-4
         name: Trocar para modo claro
 
-  favicon: assets/cinemark-icon.png
-  logo: assets/cinemark-icon.png
+  favicon: assets/favicon.ico
+  logo: assets/favicon.ico
   
 
 markdown_extensions:

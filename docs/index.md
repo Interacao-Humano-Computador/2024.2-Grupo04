@@ -10,18 +10,7 @@ O site do Cinemark é uma plataforma intuitiva e bem estruturada que oferece aos
 Link:<a href="https://www.cinemark.com.br/"> <h5>www.cinemark.com.br</h5> </a>
 
 # Grupo 04 - IHC - 2024.2
-## Descrição
-Projeto voltado para a vivência em Iteração Humano Computador, disciplina ministrada pelo Professos André Barros de Sales da Universidade de Brasília, campus do Gama.
 
-## Integrantes do Grupo:
-| Nome                                 |
-|--------------------------------------|
-| Ana Joyce Guedes Amorim da Silva     |
-| Anne Capdeville                      |
-| José Felipe Duarte Guedes de Oliveira|
-| Pedro Miguel Martins de Oliveira dos Santos|
-
-# Grupo 04 - IHC - 2024.2
 ### Integrantes do grupo
 <table style="margin-left: auto; margin-right: auto;">
     <tr>
@@ -57,3 +46,4 @@ Projeto voltado para a vivência em Iteração Humano Computador, disciplina min
 |  1.0   | Criação da apresentaçao do grupo | [Anne Capdeville](https://github.com/nanecapde) | 16/11/2024 | [José Oliveira](https://github.com/Jose1277) |   17/11/2024   |
 |  1.1   | Integrantes do grupo | [Anne Capdeville](https://github.com/nanecapde) | 17/11/2024 | [José Oliveira](https://github.com/Jose1277) |  18/11/2024   |
 |  1.2   | Add logo | [Ana Joyce](https://github.com/anajoyceamorim) | 18/11/2024 | [José Oliveira](https://github.com/Jose1277) |   18/11/2024   |
+|  1.3   | Correção da página| [Anne Capdeville](https://github.com/nanecapde) | 18/11/2024 | [José Oliveira](https://github.com/Jose1277) | 20/11/2024  |
