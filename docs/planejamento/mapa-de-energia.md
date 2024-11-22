@@ -9,7 +9,7 @@ O Mapa de Energia é composto de uma grade dividida superiormente pelos dias da 
 A princípio, não há um horário em que todos estão disponíveis para se reunir entretanto há uma seção de tempo pela noite na segunda, terça e quinta em que 3 das 4 pessoas do grupo podem se reunir.
 
 ### Figura 1 - Mapa de Energia do Grupo 4
-![Mapa de energia do grupo 4](../assets/img/mapadeenergia_Grupo4.png)
+![Mapa de energia do grupo 4](../img/mapadeenergia_Grupo4.png)  
 Autor: [Pedro Miguel](https://github.com/pedroMADBR)
 
 ## Referências Bibliograficas
