@@ -146,4 +146,4 @@ Nesta página estão contidos os cronogramas planejados para a disciplina de IHC
 | 1.0    | 12/11/2024 | Estrutura da documentação      | [José Felipe](https://github.com/Jose1277) | [Ana Joyce](https://github.com/anajoyceamorim) |
 | 2.0    | 19/11/2024 | Atualização do cronograma | [Pedro Miguel](https://github.com/pedroMADBR) e [Ana Joyce](https://github.com/anajoyceamorim) |   [Anne de Capdeville](https://github.com/nanecapde)  |
 | 2.1    | 20/11/2024 | Correções de atividades | [Pedro Miguel](https://github.com/pedroMADBR) |  [Ana Joyce](https://github.com/anajoyceamorim) |
-| 2.2    | 25/11/2024 | Atualização cronograma da etapa 2 | [Ana Joyce](https://github.com/anajoyeamorim) |  [Nome](https://github.com/) |
+| 2.2    | 25/11/2024 | Atualização cronograma da etapa 2 | [Ana Joyce](https://github.com/anajoyeamorim) |  [Pedro Miguel](https://github.com/pedroMADBR) |
