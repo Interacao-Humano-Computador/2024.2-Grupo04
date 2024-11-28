@@ -12,6 +12,7 @@ nav:
     - "Site Escolhido" : planejamento/site-escolhido.md
     - "Ferramentas": planejamento/ferramentas.md
     - "Mapa de Energia": planejamento/mapa-de-energia.md
+  
   - "Verificações":
     - "Entrega 1":
       - "Lista de verificação": avaliacoes/entrega1/avaliacao.md
@@ -19,6 +20,14 @@ nav:
 
   - "Atas":
     - "Ata 1": Atas/ata1.md
+  
+  - "Análise de requisitos":
+    - "Aspectos éticos": Analise-de-requisitos/aspectos-eticos.md
+    - "Perfil de usuário": Analise-de-requisitos/perfil-de-usuario.md
+    - "Cenários": Analise-de-requisitos/cenarios.md
+    - "Personas": Analise-de-requisitos/personas.md
+    - "Mapa de empatia": Analise-de-requisitos/mapa-de-empatia.md
+    - "Análise de tarefas": Analise-de-requisitos/analise-de-tarefas.md
 
 theme:
   name: material
