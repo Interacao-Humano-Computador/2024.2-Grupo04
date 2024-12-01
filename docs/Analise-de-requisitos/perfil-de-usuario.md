@@ -34,28 +34,28 @@ Durante o brainstorm, os participantes foram conduzidos a responder perguntas es
 
 ##### **Perguntas do Brainstorm**  
 1. **Quais são os motivos principais para você acessar o site do Cinemark?**  
-   - Usuário 1: "Eu procuro horários e compro ingressos online para evitar filas."  
-   - Usuário 2: "Gosto de explorar lançamentos e ver trailers."  
-   - Usuário 3: "Quero encontrar promoções e opções mais baratas para assistir com amigos."  
-   - Usuário 4: "Geralmente acesso para reservar ingressos para sessões noturnas de filmes de terror por exemplo."  
+    - Usuário 1: "Eu procuro horários e compro ingressos online para evitar filas."  
+    - Usuário 2: "Gosto de explorar lançamentos e ver trailers."  
+    - Usuário 3: "Quero encontrar promoções e opções mais baratas para assistir com amigos."  
+    - Usuário 4: "Geralmente acesso para reservar ingressos para sessões noturnas de filmes de terror por exemplo."  
 
 2. **O que mais te frustra ao usar o site do Cinemark?**  
-   - Usuário 1: "A página de checkout é lenta e às vezes trava."  
-   - Usuário 2: "Os pop-ups atrapalham a navegação."  
-   - Usuário 3: "É difícil encontrar informações sobre promoções."  
-   - Usuário 4: "Sinto falta de sugestões baseadas no que já assisti."  
+    - Usuário 1: "A página de checkout é lenta e às vezes trava."  
+    - Usuário 2: "Os pop-ups atrapalham a navegação."  
+    - Usuário 3: "É difícil encontrar informações sobre promoções."  
+    - Usuário 4: "Sinto falta de sugestões baseadas no que já assisti."  
 
 3. **Como você costuma acessar o site (dispositivo e frequência)?**  
-   - Usuário 1: "Quase sempre pelo celular, principalmente nos finais de semana."  
-   - Usuário 2: "Uso o notebook porque gosto de ter uma experiencia melhor."  
-   - Usuário 3: "Alterno entre celular e tablet, dependendo de onde estou."  
-   - usuário 4: "Pelo celular, à noite, quando decido sair de última hora."  
+    - Usuário 1: "Quase sempre pelo celular, principalmente nos finais de semana."  
+    - Usuário 2: "Uso o notebook porque gosto de ter uma experiencia melhor."  
+    - Usuário 3: "Alterno entre celular e tablet, dependendo de onde estou."  
+    - usuário 4: "Pelo celular, à noite, quando decido sair de última hora."  
 
 4. **Se pudesse melhorar uma funcionalidade no site, qual seria?**  
-   - Usuário 1: "Tornar a experiência de pagamento mais rápida e intuitiva."  
-   - Usuário 2: "Melhorar a interface de busca para deixá-la mais objetiva."  
-   - Usuário 3: "Facilitar o acesso a combos e promoções."  
-   - Usuário 4: "Adicionar uma seção com recomendações personalizadas."  
+    - Usuário 1: "Tornar a experiência de pagamento mais rápida e intuitiva."  
+    - Usuário 2: "Melhorar a interface de busca para deixá-la mais objetiva."  
+    - Usuário 3: "Facilitar o acesso a combos e promoções."  
+    - Usuário 4: "Adicionar uma seção com recomendações personalizadas."  
 
 ---
 
