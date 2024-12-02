@@ -156,4 +156,4 @@ Com base na metodologia aplicada e nos insights coletados, foi possível traçar
 | Versão |     Descrição      |                     Autor(es)                     |    Data    |                     Revisor(es)                     | Data de revisão |
 | :----: | :----------------: | :-----------------------------------------------: | :--------: | :-------------------------------------------------: | :-------------: |
 |  1.0   | Criação da página | [Ana Joyce](https://github.com/anajoyceamorim) | 01/12/2024 | [Anne de Capdeville](https://github.com/nanecapde) |   01/12/2024   |
-|  1.1   | Intro, metdologia e conclusões | [Ana Joyce](https://github.com/anajoyceamorim) | 01/12/2024 | [Nome revisor](https://github.com/) |   01/12/2024   |
+|  1.1   | Intro, metdologia e conclusões | [Ana Joyce](https://github.com/anajoyceamorim) | 01/12/2024 | [José Oliveira](https://github.com/jose1277) |   01/12/2024   |
