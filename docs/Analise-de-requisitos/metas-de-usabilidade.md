@@ -43,5 +43,5 @@ As rotas dentro do sistema são curtas e sem bifurcações, o que facilita a mem
 | Versão |     Descrição      |                     Autor(es)                     |    Data    |                     Revisor(es)                     | Data de revisão |
 | :----: | :----------------: | :-----------------------------------------------: | :--------: | :-------------------------------------------------: | :-------------: |
 |  1.0   | Criação da página | [Ana Joyce](https://github.com/anajoyceamorim) | 02/12/2024 |  [Anne de Capdeville](https://github.com/nanecapde) |   02/12/2024   |
-|  1.1   | Elaboração da página | [José Oliveira](https://github.com/Jose1277) | 02/12/2024 |  [Adicionar Revisor](https://github.com/) |   02/12/2024   |
+|  1.1   | Elaboração da página | [José Oliveira](https://github.com/Jose1277) | 02/12/2024 |  [Anne de Capdeville](https://github.com/nanecapde) |   02/12/2024   |
 
