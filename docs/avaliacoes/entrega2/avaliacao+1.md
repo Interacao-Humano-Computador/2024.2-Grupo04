@@ -1,0 +1,3 @@
+| Versão |     Descrição      |                     Autor(es)                     |    Data    |                     Revisor(es)                     | Data de revisão |
+| :----: | :----------------: | :-----------------------------------------------: | :--------: | :-------------------------------------------------: | :-------------: |
+|  1.0   | Criação da página | [José Oliveira](https://github.com/Jose1277) | 03/12/2024 | [José Oliveira](https://github.com/Jose1277) |   03/12/2024   |
