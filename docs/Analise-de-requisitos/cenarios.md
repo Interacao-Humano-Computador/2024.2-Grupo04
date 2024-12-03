@@ -1,5 +1,5 @@
 ### **Introdução**  
-Personas são representações fictícias de usuários que permitem compreender melhor seus objetivos, necessidades e comportamentos em relação a um sistema. De acordo com Barbosa e Silva (2010), as personas são ferramentas fundamentais para design centrado no usuário, pois ajudam a guiar decisões de design e comunicação de maneira clara e objetiva. Neste trabalho, as personas foram utilizadas para explorar cenários de interação que refletem como as funcionalidades do sistema se alinham às demandas e expectativas dos usuários.
+Personas são representações fictícias de usuários que permitem compreender melhor seus objetivos, necessidades e comportamentos em relação a um sistema. De acordo com Barbosa e Silva (2011), as personas são ferramentas fundamentais para design centrado no usuário, pois ajudam a guiar decisões de design e comunicação de maneira clara e objetiva. Neste trabalho, as personas foram utilizadas para explorar cenários de interação que refletem como as funcionalidades do sistema se alinham às demandas e expectativas dos usuários.
 
 ### **Metodologia**  
 As personas foram desenvolvidas com base no perfil de usuário previamente elaborado, representando diferentes tipos de interações com o sistema. O conjunto inclui cinco personas: duas primárias, duas secundárias e uma antipersona. A quantidade foi definida com base nas diretrizes de Cooper e Baxter (2013), que recomendam de 3 a 12 personas como intervalo ideal. Optar por um número menor de personas também contribui para torná-las mais memoráveis, facilitando o engajamento da equipe de design e desenvolvimento.  
@@ -130,6 +130,13 @@ Paula recebe a confirmação de pedido por e-mail e, após o pagamento, os vouch
 - Alinhamento às necessidades corporativas.  
 
 --- 
+
+## Referências Bibliográficas
+
+> <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.  
+> <a id="REF2" href="#anchor_2">2.</a> Courage, C. & Baxter, K. Understanding your users: a practical guide to user requirements, methods, tools, and techniques. San Francisco, CA: Morgan KaufmannPublishers, 2005.
+
+---
 
 ## Histórico de versões
 
