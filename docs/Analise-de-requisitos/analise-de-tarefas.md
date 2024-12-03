@@ -145,6 +145,11 @@ Fluxo da Tarefa:
 - **O usuário escolhe os ingressos desejados e confirma o resgate.**
 - **O sistema processa o resgate e envia a confirmação por e-mail ou mensagem.**
 
+
+## Bibliografia
+
+Barbosa S. D. J., Silva B. S. da. Interação Humano-Computador. Elsevier, 2010. 
+    
 ## Histórico de versões
 
 | Versão |     Descrição      |                     Autor(es)                     |    Data    |                     Revisor(es)                     | Data de revisão |
