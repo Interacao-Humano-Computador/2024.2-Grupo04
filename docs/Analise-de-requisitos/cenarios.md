@@ -143,4 +143,4 @@ Paula recebe a confirmação de pedido por e-mail e, após o pagamento, os vouch
 | Versão |     Descrição      |                     Autor(es)                     |    Data    |                     Revisor(es)                     | Data de revisão |
 | :----: | :----------------: | :-----------------------------------------------: | :--------: | :-------------------------------------------------: | :-------------: |
 |  1.0   | Criação da página | [Ana Joyce](https://github.com/anajoyceamorim) | 01/12/2024 | [Anne de Capdeville](https://github.com/nanecapde) |   01/12/2024   |
-|  1.1   | introdução, metodologia e cenarios | [Ana Joyce](https://github.com/anajoyceamorim) | 02/12/2024 | [Nome do revisor](https://github.com/) |   xx/12/2024   |
+|  1.1   | introdução, metodologia e cenarios | [Ana Joyce](https://github.com/anajoyceamorim) | 02/12/2024 | [Anne de Capdeville](https://github.com/nanecapde) |   02/12/2024   |
