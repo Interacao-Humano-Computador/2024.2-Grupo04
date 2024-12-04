@@ -29,7 +29,7 @@ Facilidade em aprender a utilizar o sistema. O sistema deve ser intuitivo e fác
 O usuário aprende fácilmente a utilizar o sistema, pois ele é intuitivo e possui uma interface amigável. A intuição é reforçada por botões e textos explicativos que guiam o usuário em suas ações.
 
 ### 6. Memorização
-O sistema deve ser fácil de lembrar e utilizar, permitindo que os usuários possam retornar ao sistema após um período de inatividade e continuar suas atividades sem dificuldades.
+O usuário não tem que re-aprender a utilizar o sistema a cada vez que o utiliza. O sistema deve ser fácil de lembrar e não exigir que o usuário memorize muitas informações.
 #### Sistema
 As rotas dentro do sistema são curtas e sem bifurcações, o que facilita a memorização do caminho a ser percorrido.
 
