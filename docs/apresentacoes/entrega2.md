@@ -55,4 +55,4 @@ Neste ambiente ficara salvo a apresentação da entrega em formato de vídeo.
 
 | Versão |     Descrição      |                     Autor(es)                     |    Data    |                     Revisor(es)                     | Data de revisão |
 | :----: | :----------------: | :-----------------------------------------------: | :--------: | :-------------------------------------------------: | :-------------: |
-|  1.1   | adição dos vídeos | [Ana Joyce](https://github.com/anajoyceamorim) | 03/12/2024 | [Nome](https://github.com/) |   xx/12/2024   |
+|  1.1   | adição dos vídeos | [Ana Joyce](https://github.com/anajoyceamorim) | 03/12/2024 | [Pedro Miguel](https://github.com/pedroMADBR) |   03/12/2024   |
