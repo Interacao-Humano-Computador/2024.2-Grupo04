@@ -29,7 +29,9 @@ O Guia de Estilo contará com os seguintes elementos analisados:
   - Seleção
   - Ativação
 
-## Público-alvo do guia de estilos 
+## Público-alvo do guia de estilo
+
+
 
 ## Como utilizar o guia 
 
@@ -43,22 +45,26 @@ O Guia de Estilo contará com os seguintes elementos analisados:
 
 Exibir no Figma
 
-# Elementos de interação
+# Elementos de Interação
 
-## Estilos de interação
+O site da Cinemark oferece uma experiência rica em elementos de interação e ação, tanto para a navegação quanto para a compra de ingressos e uso de serviços adicionais. 
 
-## Seleção de um estilo
+## Estilos de interação:
+O site utiliza menus de navegação, botões e caixas de pesquisa que são intuitivos e responsivos. Por exemplo, o menu principal permite acessar a programação de filmes, promoções e serviços como o Cinemark Club.
 
-## Aceleradores (teclas de atalho)
+## Seleção de um estilo: 
+A interface prioriza uma navegação direta, com design claro e elementos visuais minimalistas, o que facilita a localização de informações rapidamente, como horários de sessões ou compra de ingressos.
+## Aceleradores (teclas de atalho): 
+Apesar de não estarem explicitamente indicados, o site é compatível com atalhos de teclado comuns para navegação web, como "Tab" para alternar entre campos e "Enter" para confirmar ações.
 
+# Elementos de Ação
 
-# Elementos de ação
-
-## Preenchimento de campos
-
-## Seleção
-
-## Ativação
+## Preenchimento de campos: 
+Durante a compra de ingressos, os formulários são otimizados para entrada rápida de dados. Campos como seleção de assentos e inserção de informações pessoais são bem organizados e visualmente claros.
+## Seleção:
+A seleção de filmes e horários é feita por meio de botões com labels claras, como "Comprar Ingresso". Para opções adicionais, como escolher uma sala XD ou poltronas D-BOX, o processo é dinâmico e visualmente destacado.
+## Ativação:
+O site permite ativar ações rapidamente, como finalizar compras ou inscrever-se no Cinemark Club, com feedback visual imediato, como mudanças de cor ou mensagens de confirmação.
 
 
 ## Histórico de versões
