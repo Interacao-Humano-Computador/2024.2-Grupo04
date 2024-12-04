@@ -44,11 +44,19 @@ Dessa forma, é possível manter a consistência visual e de interação em todo
 
 ## Descrição do ambiente de trabalho do usuário
 
+O site da Cinemark é projetado para ser acessado majoritariamente através de dispositivos modernos, como computadores (notebooks ou desktops) e dispositivos móveis (smartphones e tablets). Por isso, sua interface é responsiva, adaptando-se automaticamente a diferentes tamanhos e resoluções de tela para garantir uma experiência consistente e funcional para todos os usuários.
 
+O design responsivo do site considera elementos importantes, como tamanhos adequados de botões, menus de navegação acessíveis e fontes legíveis, mesmo em telas menores, como as de smartphones. Além disso, as funcionalidades são otimizadas para toques (em dispositivos móveis) e cliques (em desktops). Essa abordagem visa melhorar a acessibilidade e usabilidade em diferentes contextos de uso​
+
+Apesar de bem adaptado, como é um site robusto com funcionalidades diversas, sua performance pode variar dependendo do dispositivo. Telas grandes, como as de desktops e notebooks, oferecem uma experiência visual mais completa, enquanto dispositivos móveis dependem de simplificações no layout para manter a navegabilidade. A responsividade bem executada permite ao site atender usuários em diferentes situações, desde a consulta rápida de horários no celular até a compra detalhada de ingressos no computador​
+
+Entretanto, para maximizar a responsividade e garantir acessibilidade em todos os dispositivos, o site poderia ser revisado regularmente com base nas últimas práticas de design adaptativo e nas tendências de acessibilidade web. Essa melhoria garantiria que a experiência do usuário continue relevante e eficiente frente às constantes inovações tecnológicas.
 
 # Elementos de interface
 
-Exibir no Figma
+<figure markdown><p style="text-align: center">Figura 1 - Elementos da Interface.</p>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FlkJqsPebEpckC0t6oat1MP%2FGuia-de-Estilo%3Ftype%3Ddesign%26node-id%3D0%253A1%26t%3DZ5BeXjqZIgoiCZxP-1" allowfullscreen></iframe><figcaption>
+Fonte: [Pedro Miguel](https://github.com/pedroMADBR), 2024.</figcaption></figure>
 
 # Elementos de Interação
 
@@ -89,6 +97,11 @@ As palavras-chave são consistentes em toda a navegação, garantindo que o usu�
 - Feedbacks Imediatos: Quando o usuário realiza uma ação, como selecionar assentos ou confirmar um pagamento, há feedback visual instantâneo, como alterações de cor ou mensagens de confirmação no topo da tela (e.g., "Compra realizada com sucesso").
 - Confirmação de Operação: Antes de finalizar ações críticas, como pagamento, o site apresenta um resumo da transação, incluindo o filme, horário e valor, seguido de um botão de confirmação. Isso reduz erros e aumenta a confiança do usuário​.
 - Mensagens de Erro: Em casos de falhas, como cartões inválidos, o site fornece mensagens de erro simples e orientativas, que guiam o usuário para corrigir o problema sem frustração.
+
+## Referências
+
+CINEMARK BRASIL. Site oficial Cinemark Brasil. Disponível em: https://www.cinemark.com.br. Acesso em: 3 dez. 2024.
+SAC CINEMARK BRASIL. Central de Atendimento Cinemark. Disponível em: https://sac.cinemark.com.br/hc/pt-br. Acesso em: 3 dez. 2024.
 
 
 ## Histórico de versões
