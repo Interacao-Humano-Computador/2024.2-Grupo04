@@ -56,11 +56,7 @@ Entretanto, para maximizar a responsividade e garantir acessibilidade em todos o
 
 <figure markdown><p style="text-align: center">Figura 1 - Elementos da Interface.</p>
   
-<iframe src="https://www.figma.com/design/hnxmvpQmoIAzoTtgOHXHTd/Elementos-da-Interface---Grupo-4?node-id=0-1&t=FAIEqLPfAy09SDp7-1" 
-        width="100%" 
-        height="600px" 
-        style="border:none;">
-</iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/hnxmvpQmoIAzoTtgOHXHTd/Elementos-da-Interface---Grupo-4?node-id=0-1&embed-host=share" allowfullscreen></iframe>
 
   
   <figcaption>
