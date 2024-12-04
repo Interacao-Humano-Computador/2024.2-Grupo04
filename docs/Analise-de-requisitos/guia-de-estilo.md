@@ -112,4 +112,4 @@ SAC CINEMARK BRASIL. Central de Atendimento Cinemark. Disponível em: https://sa
 | Versão |     Descrição      |                     Autor(es)                     |    Data    |                     Revisor(es)                     | Data de revisão |
 | :----: | :----------------: | :-----------------------------------------------: | :--------: | :-------------------------------------------------: | :-------------: |
 |  1.0   | Criação da página | [Ana Joyce](https://github.com/anajoyceamorim) | 02/12/2024 | [Anne de Capdeville](https://github.com/nanecapde) |   02/12/2024   |
-|  2.0   | Adição da estrutura do Guia de Estilo | [Pedro Miguel](https://github.com/pedroMADBR) | 03/12/2024 | - - | - - |
+|  2.0   | Adição da estrutura do Guia de Estilo | [Pedro Miguel](https://github.com/pedroMADBR) | 03/12/2024 | [Ana Joyce](https://github.com/anajoyceamorim) | 03/12/2024 |
