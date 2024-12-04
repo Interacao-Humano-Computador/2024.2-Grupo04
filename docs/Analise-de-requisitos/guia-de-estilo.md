@@ -54,14 +54,12 @@ Entretanto, para maximizar a responsividade e garantir acessibilidade em todos o
 
 # Elementos de interface
 
-<figure markdown><p style="text-align: center">Figura 1 - Elementos da Interface.</p>
-  
+
+Figura 1 - Elementos da Interface.
+
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/hnxmvpQmoIAzoTtgOHXHTd/Elementos-da-Interface---Grupo-4?node-id=0-1&embed-host=share" allowfullscreen></iframe>
 
-  
-  <figcaption>
-  
-Fonte: [Pedro Miguel](https://github.com/pedroMADBR), 2024.</figcaption></figure>
+Fonte: [Pedro Miguel](https://github.com/pedroMADBR), 2024.
 
 # Elementos de Interação
 
