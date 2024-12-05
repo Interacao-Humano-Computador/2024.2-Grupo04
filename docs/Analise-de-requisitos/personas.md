@@ -227,4 +227,4 @@ Uma navegação intuitiva, com opções de personalização e entrega simples.
 |  1.0   | Criação da página | [Ana Joyce](https://github.com/anajoyceamorim) | 01/12/2024 | [Anne de Capdeville](https://github.com/nanecapde) |   01/12/2024   |
 |  1.1   | Add intro, mmetodologia e elenco | [Ana Joyce](https://github.com/anajoyceamorim) | 02/12/2024 | [José Felipe](https://github.com/Jose1277) |   02/12/2024   |
 |  1.2   | Consertando as imagens | [Ana Joyce](https://github.com/anajoyceamorim) | 03/12/2024 | [Anne de Capdeville](https://github.com/nanecapde) |   03/12/2024   |
-|  1.3   | Consertando as imagens 2 | [Ana Joyce](https://github.com/anajoyceamorim) | 03/12/2024 | [Nome](https://github.com/nanecapde) |   xx/12/2024   |
+|  1.3   | Consertando as imagens 2 | [Ana Joyce](https://github.com/anajoyceamorim) | 03/12/2024 | [Pedro Miguel](https://github.com/pedroMADBR) |   05/12/2024   |
