@@ -40,6 +40,12 @@ nav:
     - "Guia de estilo": Analise-de-requisitos/guia-de-estilo.md
     - "Características da plataforma": Analise-de-requisitos/caracteristicas-da-plataforma.md
 
+  - Design, Avaliação e Desenvolvimento:
+    - " Planejamento da Avaliação do Storyboard": Desing-Avaliação-Desenvolvimento/avaliacao-storyboard.md
+    - " Planejamento do relato dos resultados da avaliação do Storyboard": Desing-Avaliação-Desenvolvimento/resultado-storyboard.md
+    - " Planejamento da Avaliação do Análise de tarefas": Desing-Avaliação-Desenvolvimento/avaliacao-analise-tarefas.md
+    - " planejamento do relato dos resultados da avaliação do Análise de tarefas": Desing-Avaliação-Desenvolvimento/resultado-analise-tarefas.md
+
 theme:
   name: material
   features:
