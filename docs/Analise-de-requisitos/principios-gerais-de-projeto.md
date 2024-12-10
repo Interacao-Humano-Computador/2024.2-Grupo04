@@ -6,16 +6,16 @@ Os Princípios desempenham um papel auxiliar no design, mas não substituem as e
 
 ## Metodologia
 
-A fim de embasar a definição dos princípios e diretrizes aplicáveis ao site Cinemark, utilizamos principalmente o capítulo 10 do livro Interação Humano-Computador e Experiência do Usuário (Barbosa, 2021). Tal seção aborda diretamente a explicação e aplicação das diretrizes essenciais permitindo avaliar a conformidade do site com as boas práticas de usabilidade, a identificação de erros e propostas de melhoria.
-expec
----
 
-# Análise do site Cinemark com base nos princípios de IHC
+A fim de embasar a definição dos princípios e diretrizes aplicáveis ao site Cinemark, utilizamos principalmente o capítulo 10 do livro Interação Humano-Computador e Experiência do Usuário (Barbosa, 2021). Tal seção aborda diretamente a explicação e aplicação das diretrizes essenciais permitindo avaliar a conformidade do site com as boas práticas de usabilidade, a identificação de erros e propostas de melhoria.
+
 
 ## 1. Correspondência com as Expectativas dos Usuários  
 **Definição:** Segundo Norman, a interface deve alinhar-se ao modelo mental do usuário, garantindo que as ações no sistema reflitam a forma como as tarefas são realizadas no mundo real, explorando mapeamentos naturais e mantendo consistência com as expectativas habituais do usuário.  
 **Análise:** O site Cinemark atende parcialmente ao princípio ao organizar os filmes em cartaz de forma intuitiva e apresentar horários de sessões de forma clara. No entanto, o fluxo de login obrigatório antes de escolher os filmes pode frustrar usuários que desejam explorar o site antes de se identificarem.  
 **Sugestão:** Permitir navegação anônima até a etapa final de compra, mantendo a identificação como opcional até o momento do pagamento, para respeitar o modelo mental típico de compra.
+
+![Figura 1 - Gif de exemplo](../assets/princ-expect-usuario.gif){: width="300"}
 
 ---
 
@@ -67,7 +67,7 @@ expec
 **Análise:** O Cinemark fornece feedback visual em ações como a escolha de poltronas, mas mensagens de erro durante o pagamento não são detalhadas, dificultando a correção.  
 **Sugestão:** Aprimorar as mensagens de erro, oferecendo feedback claro e orientado à solução, como destacar problemas específicos no formulário de pagamento.
 
-![]()
+![Figura 6 - Gif de exemplo](../assets/princ-visib-recon.gif){: width="300"}
 
 ---
 
