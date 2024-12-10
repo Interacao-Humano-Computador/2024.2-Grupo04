@@ -110,5 +110,5 @@ BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiên
 | Versão |     Descrição      |                     Autor(es)                     |    Data    |                     Revisor(es)                     | Data de revisão |
 | :----: | :----------------: | :-----------------------------------------------: | :--------: | :-------------------------------------------------: | :-------------: |
 |  1.0   | Criação da página | [Ana Joyce](https://github.com/anajoyceamorim) | 02/12/2024 | [Anne de Capdeville](https://github.com/nanecapde) |   02/12/2024   |
-|  1.1  | Adição da estrutura do documento | [Pedro Miguel](https://github.com/pedroMADBR) | 05/12/2024 | [nome](https://github.com/user) |   xx/12/2024   |
-|  1.2   | Construção dos princípios | [Pedro Miguel](https://github.com/pedroMADBR) | 10/12/2024 | [Nome](https://github.com/Nome) |   xx/12/2024   |
+|  1.1  | Adição da estrutura do documento | [Pedro Miguel](https://github.com/pedroMADBR) | 05/12/2024 | [Ana Joyce](https://github.com/anajoyceamorim) |   10/12/2024   |
+|  1.2   | Construção dos princípios | [Pedro Miguel](https://github.com/pedroMADBR) | 10/12/2024 | [Ana Joyce](https://github.com/anajoyceamorim) |   10/12/2024   |

@@ -23,7 +23,7 @@ Este método visa garantir uma compreensão abrangente dos perfis de usuários, 
 ### **1. Persona Primária - Compra de Ingressos**
 
 <div style="text-align: center;">
-    <img src="/assets/personas/JoaoPereira.jpeg" alt="Persona 1" style="display: block; margin: 0 auto; width: 200px;" />
+    <img src="../assets/personas/JoaoPereira.jpeg" alt="Persona 1" style="display: block; margin: 0 auto; width: 200px;" />
     <p style="margin-top: 0.5rem; font-size: 0.5rem;">Fonte: <a href="https://copilot.microsoft.com/images/create?setlang=pt-BR" target="_blank" style="text-decoration: none; color: inherit;">Gerada por IA</a></p>
 </div>
 
@@ -62,7 +62,7 @@ Uma interface responsiva, que facilite a busca por filmes e sessões, com um pro
 ### **2. Persona Secundária - Compra de Combos**
 
 <div style="text-align: center;">
-    <img src="/assets/personas/MarianaSilva.jpeg" alt="Persona 2" style="display: block; margin: 0 auto; width: 200px;" />
+    <img src="../assets/personas/MarianaSilva.jpeg" alt="Persona 2" style="display: block; margin: 0 auto; width: 200px;" />
     <p style="margin-top: 0.5rem; font-size: 0.5rem;">Fonte: <a href="https://copilot.microsoft.com/images/create?setlang=pt-BR" target="_blank" style="text-decoration: none; color: inherit;">Gerada por IA</a></p>
 </div>
 
@@ -100,7 +100,7 @@ Uma navegação integrada entre a compra de ingressos e de combos, sem necessida
 ### **3. Antipersona - Reserva de Salas**
 
 <div style="text-align: center;">
-    <img src="/assets/personas/CarlosOliveira.jpeg" alt="Persona 3" style="display: block; margin: 0 auto; width: 200px;" />
+    <img src="../assets/personas/CarlosOliveira.jpeg" alt="Persona 3" style="display: block; margin: 0 auto; width: 200px;" />
     <p style="margin-top: 0.5rem; font-size: 0.5rem;">Fonte: <a href="https://copilot.microsoft.com/images/create?setlang=pt-BR" target="_blank" style="text-decoration: none; color: inherit;">Gerada por IA</a></p>
 </div>
 
@@ -136,7 +136,7 @@ Nenhum específico para o sistema digital, já que Carlos provavelmente evitará
 ### **4. Persona Primária - Cinemark Club**
 
 <div style="text-align: center;">
-    <img src="/assets/personas/RafaelAlmeida.jpeg" alt="Persona 4" style="display: block; margin: 0 auto; width: 200px;" />
+    <img src="../assets/personas/RafaelAlmeida.jpeg" alt="Persona 4" style="display: block; margin: 0 auto; width: 200px;" />
     <p style="margin-top: 0.5rem; font-size: 0.5rem;">Fonte: <a href="https://copilot.microsoft.com/images/create?setlang=pt-BR" target="_blank" style="text-decoration: none; color: inherit;">Gerada por IA</a></p>
 </div>
 
@@ -175,7 +175,7 @@ Um cadastro simples e rápido, com informações claras sobre os benefícios dis
 ### **5. Persona Secundária - Voucher Corporativo**
 
 <div style="text-align: center;">
-    <img src="/assets/personas/PaulaTorres.jpeg" alt="Persona 5" style="display: block; margin: 0 auto; width: 200px;" />
+    <img src="../assets/personas/PaulaTorres.jpeg" alt="Persona 5" style="display: block; margin: 0 auto; width: 200px;" />
     <p style="margin-top: 0.5rem; font-size: 0.5rem;">Fonte: <a href="https://copilot.microsoft.com/images/create?setlang=pt-BR" target="_blank" style="text-decoration: none; color: inherit;">Gerada por IA</a></p>
 </div>
 
@@ -227,3 +227,4 @@ Uma navegação intuitiva, com opções de personalização e entrega simples.
 |  1.0   | Criação da página | [Ana Joyce](https://github.com/anajoyceamorim) | 01/12/2024 | [Anne de Capdeville](https://github.com/nanecapde) |   01/12/2024   |
 |  1.1   | Add intro, mmetodologia e elenco | [Ana Joyce](https://github.com/anajoyceamorim) | 02/12/2024 | [José Felipe](https://github.com/Jose1277) |   02/12/2024   |
 |  1.2   | Consertando as imagens | [Ana Joyce](https://github.com/anajoyceamorim) | 03/12/2024 | [Anne de Capdeville](https://github.com/nanecapde) |   03/12/2024   |
+|  1.3   | Consertando as imagens 2 | [Ana Joyce](https://github.com/anajoyceamorim) | 03/12/2024 | [Pedro Miguel](https://github.com/pedroMADBR) |   05/12/2024   |

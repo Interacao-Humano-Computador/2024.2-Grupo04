@@ -14,6 +14,12 @@ nav:
     - "Entrega 2":
       - "Lista de verificação": avaliacoes/entrega2/avaliacao.md
       - "Lista de verificação grupo 5": avaliacoes/entrega2/avaliacao+1.md
+    - "Entrega 3":
+      - "Lista de verificação": avaliacoes/entrega3/avaliacao.md
+      - "Lista de verificação grupo 5": avaliacoes/entrega3/avaliacao+1.md
+    - "Entrega 4":
+      - "Lista de verificação": avaliacoes/entrega4/avaliacao.md
+      - "Lista de verificação grupo 5": avaliacoes/entrega4/avaliacao+1.md
 
   - Atas:
     - "Ata 1": Atas/ata1.md
@@ -39,6 +45,12 @@ nav:
     - "Metas de usabilidade": Analise-de-requisitos/metas-de-usabilidade.md
     - "Guia de estilo": Analise-de-requisitos/guia-de-estilo.md
     - "Características da plataforma": Analise-de-requisitos/caracteristicas-da-plataforma.md
+
+  - Design, Avaliação e Desenvolvimento:
+    - " Planejamento da Avaliação do Storyboard": Desing-Avaliação-Desenvolvimento/avaliacao-storyboard.md
+    - " Planejamento do relato dos resultados da avaliação do Storyboard": Desing-Avaliação-Desenvolvimento/resultado-storyboard.md
+    - " Planejamento da Avaliação do Análise de tarefas": Desing-Avaliação-Desenvolvimento/avaliacao-analise-tarefas.md
+    - " planejamento do relato dos resultados da avaliação do Análise de tarefas": Desing-Avaliação-Desenvolvimento/resultado-analise-tarefas.md
 
 theme:
   name: material
