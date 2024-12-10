@@ -75,13 +75,6 @@ Atividades principais:
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.  
 
 
-## Bibliografia
-
-> ALVES, Douglas. Personas . Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/personas/>>. Acesso em: 10 dezembro 2024.
- user requirements, methods, tools, and techniques. San Francisco, CA: Morgan KaufmannPublishers, 2005.
-
----
-
 ## Histórico de versões
 
 
