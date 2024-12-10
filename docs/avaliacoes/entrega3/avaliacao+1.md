@@ -31,4 +31,4 @@ A verificação da entrega é necessária porque garante que o projeto atenda ao
 
 | Versão |                 Descrição                 |                     Autor(es)                     |    Data    |                     Revisor(es)                     | Data de revisão |
 | :----: | :--------------------------------------: | :-----------------------------------------------: | :--------: | :-------------------------------------------------: | :-------------: |
-|  1.0   |            Criação da página e análise           | [Ana Joyce](https://github.com/anajoyceamorim)     | 10/12/2024 | [Nome](https://github.com/)        |   xx/12/2024    |
+|  1.0   |            Criação da página e análise           | [Ana Joyce](https://github.com/anajoyceamorim)     | 10/12/2024 | [Pedro Miguel](https://github.com/pedroMADBR)        |   10/12/2024    |
