@@ -15,7 +15,8 @@ A fim de embasar a definição dos princípios e diretrizes aplicáveis ao site 
 **Análise:** O site Cinemark atende parcialmente ao princípio ao organizar os filmes em cartaz de forma intuitiva e apresentar horários de sessões de forma clara. No entanto, o fluxo de login obrigatório antes de escolher os filmes pode frustrar usuários que desejam explorar o site antes de se identificarem.  
 **Sugestão:** Permitir navegação anônima até a etapa final de compra, mantendo a identificação como opcional até o momento do pagamento, para respeitar o modelo mental típico de compra.
 
-![Figura 1 - Gif de exemplo](../assets/princ-expect-usuario.gif){: width="300" height="200}
+![Figura 1 - Gif de exemplo](../assets/principios/princ-expect-usuario.gif)
+#### Autor: [Pedro Miguel](https://github.com/pedroMADBR)
 
 ---
 
@@ -24,7 +25,8 @@ A fim de embasar a definição dos princípios e diretrizes aplicáveis ao site 
 **Análise:** O Cinemark apresenta uma estrutura linear para compra de ingressos, o que facilita o processo. No entanto, explorar categorias específicas de filmes ou promoções exige vários cliques, o que pode tornar a experiência menos intuitiva.  
 **Sugestão:** Agrupar informações relacionadas, como categorias de filmes e promoções, em menus mais acessíveis na página inicial, reduzindo a necessidade de navegação profunda.
 
-![]()
+![Figura 2 - Gif de exemplo 2](../assets/principios/princ-simp-taref.gif)
+#### Autor: [Pedro Miguel](https://github.com/pedroMADBR)
 
 ---
 
@@ -33,7 +35,8 @@ A fim de embasar a definição dos princípios e diretrizes aplicáveis ao site 
 **Análise:** O site oferece liberdade ao usuário na escolha de poltronas, mas limita o controle em outras áreas, como a ausência de filtros avançados para horários e tipos de sala, dificultando a busca personalizada.  
 **Sugestão:** Implementar filtros para tipos de sala (3D, IMAX), horários e idiomas, permitindo que o usuário personalize a busca por sessões de acordo com suas preferências.
 
-![]()
+![Figura 3 - Gif de exemplo 3](../assets/principios/princ-control-liberd.gif)
+#### Autor: [Pedro Miguel](https://github.com/pedroMADBR)
 
 ---
 
@@ -42,6 +45,12 @@ A fim de embasar a definição dos princípios e diretrizes aplicáveis ao site 
 **Análise:** O site mantém consistência visual e funcional em elementos como botões e ícones, mas a terminologia varia, com rótulos como "Promoções" e "Ofertas" criando confusão desnecessária.  
 **Sugestão:** Uniformizar a nomenclatura em todo o site, utilizando termos consistentes para categorias semelhantes, como unificar "Promoções" e "Ofertas" sob um único título.
 
+![Figura 4 - Imagem de exemplo 4](../assets/principios/princ-padrao.png)
+#### Autor: [Pedro Miguel](https://github.com/pedroMADBR)
+
+![Figura 5 - Imagem de exemplo 5](../assets/principios/princ-padrao2.png)
+#### Autor: [Pedro Miguel](https://github.com/pedroMADBR)
+
 ---
 
 ## 5. Promoção da Eficiência do Usuário  
@@ -49,7 +58,8 @@ A fim de embasar a definição dos princípios e diretrizes aplicáveis ao site 
 **Análise:** O fluxo de compra é eficiente e linear, mas o tempo de carregamento de páginas pode ser prolongado, especialmente em dispositivos móveis, prejudicando a experiência.  
 **Sugestão:** Implementar otimizações para carregamento mais rápido, sem abrir outras telas, como compactação de recursos e uma versão mobile mais leve, melhorando a eficiência em dispositivos móveis.
 
-![]()
+![Figura 6 - Gif de exemplo 6](../assets/principios/princ-efici-usuar.gif)
+#### Autor: [Pedro Miguel](https://github.com/pedroMADBR)
 
 ---
 
@@ -58,7 +68,8 @@ A fim de embasar a definição dos princípios e diretrizes aplicáveis ao site 
 **Análise:** O site exibe filmes populares, mas não personaliza recomendações com base no histórico de navegação ou compras do usuário, perdendo a oportunidade de antecipar preferências.  
 **Sugestão:** Adotar um sistema de recomendação que sugira filmes e sessões com base no comportamento anterior do usuário, personalizando a experiência.
 
-![]()
+![Figura 7 - Gif de exemplo 7](../assets/principios/princ-antec-neces.gif)
+#### Autor: [Pedro Miguel](https://github.com/pedroMADBR)
 
 ---
 
@@ -67,7 +78,8 @@ A fim de embasar a definição dos princípios e diretrizes aplicáveis ao site 
 **Análise:** O Cinemark fornece feedback visual em ações como a escolha de poltronas, mas mensagens de erro durante o pagamento não são detalhadas, dificultando a correção.  
 **Sugestão:** Aprimorar as mensagens de erro, oferecendo feedback claro e orientado à solução, como destacar problemas específicos no formulário de pagamento.
 
-![Figura 6 - Gif de exemplo](../assets/princ-visib-recon.gif){: width="300" height="200}
+![Figura 8 - Gif de exemplo 8](../assets/principios/princ-visib-recon.gif)
+#### Autor: [Pedro Miguel](https://github.com/pedroMADBR)
 
 ---
 
@@ -76,7 +88,8 @@ A fim de embasar a definição dos princípios e diretrizes aplicáveis ao site 
 **Análise:** O site apresenta informações objetivas sobre filmes e horários, mas detalhes de promoções e eventos podem ser difíceis de localizar, impactando sua visibilidade.  
 **Sugestão:** Criar uma seção dedicada e destacada para promoções e eventos no menu principal, aumentando sua relevância e acessibilidade.
 
-![]()
+![Figura 9 - Gif de exemplo 9](../assets/principios/princ-relev-adeq.gif)
+#### Autor: [Pedro Miguel](https://github.com/pedroMADBR)
 
 ---
 
@@ -85,7 +98,8 @@ A fim de embasar a definição dos princípios e diretrizes aplicáveis ao site 
 **Análise:** O site permite corrigir a seleção de poltronas sem reiniciar o processo, mas mensagens de erro, como as relacionadas ao login ou pagamento, são genéricas e pouco úteis.  
 **Sugestão:** Elaborar mensagens de erro informativas e construtivas, sugerindo ações corretivas claras e evitando linguagem técnica ou confusa.
 
-![]()
+![Figura 10 - Gif de exemplo 10](../assets/principios/princ-visib-recon.gif)
+#### Autor: [Pedro Miguel](https://github.com/pedroMADBR)
 
 ## Referências
 
