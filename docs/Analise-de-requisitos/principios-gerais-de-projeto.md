@@ -15,7 +15,7 @@ A fim de embasar a definição dos princípios e diretrizes aplicáveis ao site 
 **Análise:** O site Cinemark atende parcialmente ao princípio ao organizar os filmes em cartaz de forma intuitiva e apresentar horários de sessões de forma clara. No entanto, o fluxo de login obrigatório antes de escolher os filmes pode frustrar usuários que desejam explorar o site antes de se identificarem.  
 **Sugestão:** Permitir navegação anônima até a etapa final de compra, mantendo a identificação como opcional até o momento do pagamento, para respeitar o modelo mental típico de compra.
 
-![Figura 1 - Gif de exemplo](../assets/princ-expect-usuario.gif){: width="300"}
+![Figura 1 - Gif de exemplo](../assets/princ-expect-usuario.gif){: width="300" height="200}
 
 ---
 
@@ -67,7 +67,7 @@ A fim de embasar a definição dos princípios e diretrizes aplicáveis ao site 
 **Análise:** O Cinemark fornece feedback visual em ações como a escolha de poltronas, mas mensagens de erro durante o pagamento não são detalhadas, dificultando a correção.  
 **Sugestão:** Aprimorar as mensagens de erro, oferecendo feedback claro e orientado à solução, como destacar problemas específicos no formulário de pagamento.
 
-![Figura 6 - Gif de exemplo](../assets/princ-visib-recon.gif){: width="300"}
+![Figura 6 - Gif de exemplo](../assets/princ-visib-recon.gif){: width="300" height="200}
 
 ---
 
