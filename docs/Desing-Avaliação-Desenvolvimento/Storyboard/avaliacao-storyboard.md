@@ -13,6 +13,7 @@ Para o planejamento será utilizado o framework decide (Decompose, Empathize, Cr
 |   D   |          Decidir como lidar com as questões éticas.          |
 |   E   |          Avaliar, interpretar e apresentar os dados.         |
 
+
 Fonte:  [Ana Joyce](https://github.com/anajoyceamorim).
 
 ## D - Determine
@@ -71,10 +72,26 @@ Atividades principais:
 - Documentar o processo de alterações para futuras referências e aprendizado.
 - Validar o produto final com stakeholders e usuários para verificar se os objetivos do projeto foram alcançados.
 
+## Resultado do Teste Piloto
+
+Abaixo segue o vídeo feito do teste piloto de acordo com o cronograma citado anteriormente em que o [Ana Joyce](https://github.com/anajoyceamorim) fez papel de usuário e [Anne](https://github.com/nanecapde) de entrevistadora. Nele pode-se notar que alguns fluxos tem divergência com os storyboards e apresentam alguma dificuldade de iteração para o usuário no mais, o teste mostrou que o questionário pode ser utilizado nas entrevistas.
+
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=Qf14KN3XftI" target="blanket">Clique aqui</a></p>
+
+<font size="3"><p style="text-align: center">Fonte: [Ana Joyce](https://github.com/anajoyceamorim) e [Anne](https://github.com/nanecapde).</p></font>
+
+---
+
 ## Referências Bibliográficas
 
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.  
 
+## Bibliografia
+
+> ALVES, Douglas. Personas . Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/personas/>>. Acesso em: 10 dezembro 2024.
+ user requirements, methods, tools, and techniques. San Francisco, CA: Morgan KaufmannPublishers, 2005.
+
+---
 
 ## Histórico de versões
 
@@ -83,4 +100,4 @@ Atividades principais:
 | :----: | :----------------: | :-----------------------------------------------: | :--------: | :-------------------------------------------------: | :-------------: |
 |  1.0   | Criação da página | [Anne de Capdeville](https://github.com/nanecapde) | 08/12/2024 | [José Oliveira](https://github.com/Jose1277) |  09/12/2024   |
 |  1.1   | Elaboração parte da página | [José Oliveira](https://github.com/Jose1277) | 08/12/2024 | [Anne de Capdeville](https://github.com/nanecapde) |  09/12/2024   |
-|  1.2   | Elaboração de parte da página | [Anne de Capdeville](https://github.com/nanecapde) | 10/12/2024 |  |  xx/12/2024   |
+|  1.2   | Elaboração de parte da página | [Anne de Capdeville](https://github.com/nanecapde) | 10/12/2024 | [Ana Joyce](https://github.com/anajoyceamorim)  |  10/12/2024   |
