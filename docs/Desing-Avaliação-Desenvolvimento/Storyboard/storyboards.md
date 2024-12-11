@@ -8,4 +8,4 @@ Os storyboards desenvolvidos pela equipe foram processados e apesar das inumeras
 
 | Versão |     Descrição      |                     Autor(es)                     |    Data    |                     Revisor(es)                     | Data de revisão |
 | :----: | :----------------: | :-----------------------------------------------: | :--------: | :-------------------------------------------------: | :-------------: |
-|  1.0   | Adição dos storyboards | [Pedro Miguel](https://github.com/pedroMADBR) | 10/12/2024 | [Nome](https://github.com/) |  10/12/2024   |
+|  1.0   | Adição dos storyboards | [Pedro Miguel](https://github.com/pedroMADBR) | 10/12/2024 | [Anne de Capdeville](https://github.com/nanecapde) |  10/12/2024   |
