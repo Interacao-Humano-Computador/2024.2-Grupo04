@@ -14,6 +14,7 @@ Para o planejamento será utilizado o framework decide (Decompose, Empathize, Cr
 |   E   |          Avaliar, interpretar e apresentar os dados.         |
 
 
+
 ## D - Determine
 Esta etapa determina os objetivos do storyboard, como elaborar a história, definir o público-alvo, e estabelecer o propósito do projeto. Após a elaboraçào deve-se validar se a versão final atende aos objetivos estabelecidos. E por fim, deve-se decidir se ele possui algo a mais que possa alterado, deletado ou adicionado.
 <br>
@@ -78,12 +79,11 @@ Abaixo segue o vídeo feito do teste piloto de acordo com o cronograma citado an
 
 <font size="3"><p style="text-align: center">Fonte: [Ana Joyce](https://github.com/anajoyceamorim) e [Anne](https://github.com/nanecapde).</p></font>
 
-
+---
 
 ## Referências Bibliográficas
 
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.  
-
 
 ## Bibliografia
 
