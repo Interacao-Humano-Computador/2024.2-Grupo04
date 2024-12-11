@@ -44,8 +44,6 @@ Autor: [Ana Joyce](https://github.com/anajoyceamorim)
 
 Autor: [Ana Joyce](https://github.com/anajoyceamorim)
 
-Autor: [Ana Joyce](https://github.com/anajoyceamorim)
-
 ### Seleção dos participantes
 
 Para a seleção dos participantes devemos obedecer nosso cronograma e como justificativa dos usuários escolhidos para a realização das entrevistas. Para tal, são elencados os seguintes requisitos:
