@@ -86,7 +86,7 @@ Um cronograma será seguido para organizar entrevistas e análises:
 | Entrevistador | Entrevistado | Data       | Horário      | Local            |
 |:-------------:|:------------:|:----------:|:------------:|:----------------:|
 | Ana Joyce     | Usuário 1    | 10/12/2024 | 17:00 - 17:30| Google Meet      |
-| Pedro Miguel  | Usuário 2    | 10/12/2024 | 19:00 - 19:30| Google Meet      |
+| Anne          | Usuário 2    | 10/12/2024 | 19:00 - 19:30| Google Meet      |
 
 Fonte: [Ana Joyce](https://github.com/anajoyceamorim).
 
@@ -118,12 +118,6 @@ Fonte: [Ana Joyce](https://github.com/anajoyceamorim).
 
 - Será obtido consentimento dos participantes antes da entrevista.
 - Garantia de anonimato e confidencialidade das respostas coletadas.
-
----
-
-Segue uma versão revisada e mais detalhada para a seção **E - Explorar Perguntas Respondidas com a Avaliação**, incorporando mais nuances e exemplos:
-
----
 
 ### **E - Explorar Perguntas Respondidas com a Avaliação**
 
@@ -157,12 +151,6 @@ Com base nos objetivos definidos, a avaliação buscará responder perguntas rel
 #### **5. Integração com a Tarefa de Cancelamento de Compra**
 - Quais informações adicionais são necessárias para criar ou revisar o fluxo de cancelamento de compra?  
    *Exemplo*: O usuário identifica que atualmente não encontra uma opção clara para cancelar uma compra ou percebe que as etapas descritas não correspondem à experiência prática.
-
----
-
-Aqui está o planejamento do teste piloto adaptado para o seu contexto:
-
----
 
 ## Planejamento do Teste Piloto
 
@@ -225,7 +213,7 @@ Com base nos resultados do teste piloto, serão feitas as seguintes ações:
 
 ## Resultado do Teste Piloto
 
-Abaixo segue o vídeo feito do teste piloto de acordo com o cronograma citado anteriormente em que o [Ana Joyce](https://github.com/anajoyceamorim) fez papel de usuário e [Anne](https://github.com/nanecapde) de entrevistadora. Nele pode-se notar a falta de um fluxo de canlamento e alguns passos diferentes do análise de tarefas, no mais, o teste mostrou que o questionário pode ser utilizado nas entrevistas.
+Abaixo segue o vídeo feito do teste piloto de acordo com o cronograma citado anteriormente em que o [Ana Joyce](https://github.com/anajoyceamorim) fez papel de entrevistador e [Anne](https://github.com/nanecapde) de usuária. Nele pode-se notar a falta de um fluxo de canlamento e alguns passos diferentes do análise de tarefas, no mais, o teste mostrou que o questionário pode ser utilizado nas entrevistas.
 
 <p style="text-align: center"><a href="https://www.youtube.com/watch?v=PE614uSv4Ck" target="blanket">Clique aqui</a></p>
 
@@ -255,3 +243,4 @@ Abaixo segue o vídeo feito do teste piloto de acordo com o cronograma citado an
 |  1.0   | Criação da página | [Anne de Capdeville](https://github.com/nanecapde) | 08/12/2024 | [José Oliveira](https://github.com/Jose1277) |  09/12/2024   |
 |  1.1   | Adição do DECIDE | [Ana Joyce](https://github.com/anajoyceamorim) | 10/12/2024 | [Pedro Miguel](https://github.com/pedroMADBR) |  10/12/2024   |
 |  1.2   | Adição video teste piloto | [Ana Joyce](https://github.com/anajoyceamorim) | 10/12/2024 | [Anne de Capdeville](https://github.com/nanecapde) |  10/12/2024   |
+|  1.3   | Corrigindo os papéis | [Ana Joyce](https://github.com/anajoyceamorim) | 10/12/2024 | [Anne de Capdeville](https://github.com/nanecapde) |  10/12/2024   |
