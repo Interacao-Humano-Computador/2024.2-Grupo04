@@ -103,3 +103,4 @@ Abaixo segue o vídeo feito do teste piloto de acordo com o cronograma citado an
 |  1.0   | Criação da página | [Anne de Capdeville](https://github.com/nanecapde) | 08/12/2024 | [José Oliveira](https://github.com/Jose1277) |  09/12/2024   |
 |  1.1   | Elaboração parte da página | [José Oliveira](https://github.com/Jose1277) | 08/12/2024 | [Anne de Capdeville](https://github.com/nanecapde) |  09/12/2024   |
 |  1.2   | Elaboração de parte da página | [Anne de Capdeville](https://github.com/nanecapde) | 10/12/2024 | [Ana Joyce](https://github.com/anajoyceamorim)  |  10/12/2024   |
+|  1.3   | Finalização da página | [Anne de Capdeville](https://github.com/nanecapde) | 10/12/2024 |  |  xx/12/2024   |
