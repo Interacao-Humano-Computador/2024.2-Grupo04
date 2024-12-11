@@ -28,7 +28,7 @@ A metodologia segue o framework **DECIDE**, onde cada etapa é detalhada a segui
 |   D   |          Decidir como lidar com as questões éticas.          |
 |   E   |          Avaliar, interpretar e apresentar os dados.         |
 
----
+Fonte: [Ana Joyce](https://github.com/anajoyceamorim).
 
 ### **D - Objetivos**
 
@@ -88,7 +88,7 @@ Um cronograma será seguido para organizar entrevistas e análises:
 | Ana Joyce     | Usuário 1    | 10/12/2024 | 17:00 - 17:30| Google Meet      |
 | Anne          | Usuário 2    | 10/12/2024 | 19:00 - 19:30| Google Meet      |
 
----
+Fonte: [Ana Joyce](https://github.com/anajoyceamorim).
 
 ### **Roteiro de Perguntas**
 
