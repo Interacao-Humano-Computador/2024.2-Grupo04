@@ -242,5 +242,5 @@ Abaixo segue o vídeo feito do teste piloto de acordo com o cronograma citado an
 | :----: | :----------------: | :-----------------------------------------------: | :--------: | :-------------------------------------------------: | :-------------: |
 |  1.0   | Criação da página | [Anne de Capdeville](https://github.com/nanecapde) | 08/12/2024 | [José Oliveira](https://github.com/Jose1277) |  09/12/2024   |
 |  1.1   | Adição do DECIDE | [Ana Joyce](https://github.com/anajoyceamorim) | 10/12/2024 | [Pedro Miguel](https://github.com/pedroMADBR) |  10/12/2024   |
-|  1.2   | Adição video teste piloto | [Ana Joyce](https://github.com/anajoyceamorim) | 10/12/2024 | [Nome](https://github.com/) |  10/12/2024   |
+|  1.2   | Adição video teste piloto | [Ana Joyce](https://github.com/anajoyceamorim) | 10/12/2024 | [Anne de Capdeville](https://github.com/nanecapde) |  10/12/2024   |
 |  1.3   | Corrigindo os papéis | [Ana Joyce](https://github.com/anajoyceamorim) | 10/12/2024 | [Nome](https://github.com/) |  10/12/2024   |
