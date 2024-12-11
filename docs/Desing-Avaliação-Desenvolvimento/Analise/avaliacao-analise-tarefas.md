@@ -227,7 +227,7 @@ Com base nos resultados do teste piloto, serão feitas as seguintes ações:
 
 Abaixo segue o vídeo feito do teste piloto de acordo com o cronograma citado anteriormente em que o [Ana Joyce](https://github.com/anajoyceamorim) fez papel de usuário e [Anne](https://github.com/nanecapde) de entrevistadora. Nele pode-se notar a falta de um fluxo de canlamento e alguns passos diferentes do análise de tarefas, no mais, o teste mostrou que o questionário pode ser utilizado nas entrevistas.
 
-<p style="text-align: center"><a href="https://www.youtube.com/" target="blanket">Clique aqui</a></p>
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=PE614uSv4Ck" target="blanket">Clique aqui</a></p>
 
 <font size="3"><p style="text-align: center">Fonte: [Ana Joyce](https://github.com/anajoyceamorim) e [Anne](https://github.com/nanecapde).</p></font>
 
