@@ -46,7 +46,8 @@ Tabela 2: Cronograma executado
 
 | Entrevistador | Entrevistado | Data       | Horário      | Local            |
 |:-------------:|:------------:|:----------:|:------------:|:----------------:|
-|               |              |            |              |                  |
+| Ana Joyce     | Usuário 1    | 10/12/2024 | 17:00 - 17:30| Google Meet      |
+| Anne de Capdeville  | Usuário 2    | 10/12/2024 | 19:00 - 19:30| Google Meet      |
 
 Autor: [Ana Joyce](https://github.com/anajoyceamorim)
 
