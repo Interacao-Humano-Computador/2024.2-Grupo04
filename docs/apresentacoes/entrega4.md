@@ -7,7 +7,7 @@ Neste ambiente ficara salvo a apresentação da entrega em formato de vídeo.
 
 ## Planejamento do relato dos resultados da avaliação do:
 
-<p style="text-align: center"><a href="https://youtu.be/Gy50qvTeXhI" target="blanket">Clique aqui</a></p>
+<p style="text-align: center"><a href="https://youtu.be/lvP7sE986bI" target="blanket">Clique aqui</a></p>
 
 ## Planejamento da Avaliação do Storyboard:
 
