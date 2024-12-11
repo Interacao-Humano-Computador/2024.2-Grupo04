@@ -13,7 +13,7 @@ Para o planejamento será utilizado o framework decide (Decompose, Empathize, Cr
 |   D   |          Decidir como lidar com as questões éticas.          |
 |   E   |          Avaliar, interpretar e apresentar os dados.         |
 
-
+Fonte: [Ana Joyce](https://github.com/anajoyceamorim).
 
 ## D - Determine
 Esta etapa determina os objetivos do storyboard, como elaborar a história, definir o público-alvo, e estabelecer o propósito do projeto. Após a elaboraçào deve-se validar se a versão final atende aos objetivos estabelecidos. E por fim, deve-se decidir se ele possui algo a mais que possa alterado, deletado ou adicionado.
@@ -71,9 +71,12 @@ Atividades principais:
 - Documentar o processo de alterações para futuras referências e aprendizado.
 - Validar o produto final com stakeholders e usuários para verificar se os objetivos do projeto foram alcançados.
 
+## Teste Piloto
+O objetivo do teste piloto é validar o planejamento de avaliação do storyboard, identificando a clareza e a eficiência das etapas do framework DECIDE. O piloto permitirá verificar se os métodos, perguntas e atividades propostos são suficientes para avaliar o storyboard e gerar dados relevantes para aprimoramentos. Será realizado por duas pessoas, um entrevistador e um entrevistado, visando analisar as divergências com os storyboards.
+
 ## Resultado do Teste Piloto
 
-Abaixo segue o vídeo feito do teste piloto de acordo com o cronograma citado anteriormente em que o [Ana Joyce](https://github.com/anajoyceamorim) fez papel de usuário e [Anne](https://github.com/nanecapde) de entrevistadora. Nele pode-se notar que alguns fluxos tem divergência com os storyboards e apresentam alguma dificuldade de iteração para o usuário no mais, o teste mostrou que o questionário pode ser utilizado nas entrevistas.
+Abaixo segue o vídeo feito do teste piloto de acordo com o cronograma citado anteriormente em que o [Ana Joyce](https://github.com/anajoyceamorim) fez papel de entrevistadora e [Anne](https://github.com/nanecapde) de usuário. Nele pode-se notar que alguns fluxos tem divergência com os storyboards e apresentam alguma dificuldade de iteração para o usuário no mais, o teste mostrou que o questionário pode ser utilizado nas entrevistas.
 
 <p style="text-align: center"><a href="https://www.youtube.com/watch?v=Qf14KN3XftI" target="blanket">Clique aqui</a></p>
 
@@ -100,3 +103,4 @@ Abaixo segue o vídeo feito do teste piloto de acordo com o cronograma citado an
 |  1.0   | Criação da página | [Anne de Capdeville](https://github.com/nanecapde) | 08/12/2024 | [José Oliveira](https://github.com/Jose1277) |  09/12/2024   |
 |  1.1   | Elaboração parte da página | [José Oliveira](https://github.com/Jose1277) | 08/12/2024 | [Anne de Capdeville](https://github.com/nanecapde) |  09/12/2024   |
 |  1.2   | Elaboração de parte da página | [Anne de Capdeville](https://github.com/nanecapde) | 10/12/2024 | [Ana Joyce](https://github.com/anajoyceamorim)  |  10/12/2024   |
+|  1.3   | Finalização da página | [Anne de Capdeville](https://github.com/nanecapde) | 10/12/2024 |  [Ana Joyce](https://github.com/anajoyceamorim) |  10/12/2024   |
