@@ -71,9 +71,12 @@ Atividades principais:
 - Documentar o processo de alterações para futuras referências e aprendizado.
 - Validar o produto final com stakeholders e usuários para verificar se os objetivos do projeto foram alcançados.
 
+## Teste Piloto
+O objetivo do teste piloto é validar o planejamento de avaliação do storyboard, identificando a clareza e a eficiência das etapas do framework DECIDE. O piloto permitirá verificar se os métodos, perguntas e atividades propostos são suficientes para avaliar o storyboard e gerar dados relevantes para aprimoramentos. Será realizado por duas pessoas, um entrevistador e um entrevistado, visando analisar as divergências com os storyboards.
+
 ## Resultado do Teste Piloto
 
-Abaixo segue o vídeo feito do teste piloto de acordo com o cronograma citado anteriormente em que o [Ana Joyce](https://github.com/anajoyceamorim) fez papel de usuário e [Anne](https://github.com/nanecapde) de entrevistadora. Nele pode-se notar que alguns fluxos tem divergência com os storyboards e apresentam alguma dificuldade de iteração para o usuário no mais, o teste mostrou que o questionário pode ser utilizado nas entrevistas.
+Abaixo segue o vídeo feito do teste piloto de acordo com o cronograma citado anteriormente em que o [Ana Joyce](https://github.com/anajoyceamorim) fez papel de entrevistadora e [Anne](https://github.com/nanecapde) de usuário. Nele pode-se notar que alguns fluxos tem divergência com os storyboards e apresentam alguma dificuldade de iteração para o usuário no mais, o teste mostrou que o questionário pode ser utilizado nas entrevistas.
 
 <p style="text-align: center"><a href="https://www.youtube.com/watch?v=Qf14KN3XftI" target="blanket">Clique aqui</a></p>
 
