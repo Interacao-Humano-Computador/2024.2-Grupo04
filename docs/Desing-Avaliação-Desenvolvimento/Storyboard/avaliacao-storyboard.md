@@ -13,7 +13,7 @@ Para o planejamento será utilizado o framework decide (Decompose, Empathize, Cr
 |   D   |          Decidir como lidar com as questões éticas.          |
 |   E   |          Avaliar, interpretar e apresentar os dados.         |
 
-
+Fonte: [Ana Joyce](https://github.com/anajoyceamorim).
 
 ## D - Determine
 Esta etapa determina os objetivos do storyboard, como elaborar a história, definir o público-alvo, e estabelecer o propósito do projeto. Após a elaboraçào deve-se validar se a versão final atende aos objetivos estabelecidos. E por fim, deve-se decidir se ele possui algo a mais que possa alterado, deletado ou adicionado.
