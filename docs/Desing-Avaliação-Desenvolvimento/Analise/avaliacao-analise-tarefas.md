@@ -225,11 +225,9 @@ Com base nos resultados do teste piloto, serão feitas as seguintes ações:
 
 ## Resultado do Teste Piloto
 
-Abaixo segue o vídeo feito do teste piloto de acordo com o cronograma citado anteriormente em que o [Ana Joyce](https://github.com/anajoyceamorim) fez papel de usuário e [Anne](https://github.com/nanecapde) de entrevistadora. Nele pode-se notar ..............., no mais, o teste mostrou que o questionário pode ser utilizado nas entrevistas.
+Abaixo segue o vídeo feito do teste piloto de acordo com o cronograma citado anteriormente em que o [Ana Joyce](https://github.com/anajoyceamorim) fez papel de usuário e [Anne](https://github.com/nanecapde) de entrevistadora. Nele pode-se notar a falta de um fluxo de canlamento e alguns passos diferentes do análise de tarefas, no mais, o teste mostrou que o questionário pode ser utilizado nas entrevistas.
 
-<p style="text-align: center"><a href="https://www.youtube.com/" target="blanket">Clique aqui</a></p>
-
-<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=PE614uSv4Ck" target="blanket">Clique aqui</a></p>
 
 <font size="3"><p style="text-align: center">Fonte: [Ana Joyce](https://github.com/anajoyceamorim) e [Anne](https://github.com/nanecapde).</p></font>
 
@@ -255,4 +253,5 @@ Abaixo segue o vídeo feito do teste piloto de acordo com o cronograma citado an
 | Versão |     Descrição      |                     Autor(es)                     |    Data    |                     Revisor(es)                     | Data de revisão |
 | :----: | :----------------: | :-----------------------------------------------: | :--------: | :-------------------------------------------------: | :-------------: |
 |  1.0   | Criação da página | [Anne de Capdeville](https://github.com/nanecapde) | 08/12/2024 | [José Oliveira](https://github.com/Jose1277) |  09/12/2024   |
-|  1.1   | Adição do DECIDE | [Ana Joyce](https://github.com/anajoyceamorim) | 08/12/2024 | [Pedro Miguel](https://github.com/pedroMADBR) |  09/12/2024   |
+|  1.1   | Adição do DECIDE | [Ana Joyce](https://github.com/anajoyceamorim) | 10/12/2024 | [Pedro Miguel](https://github.com/pedroMADBR) |  10/12/2024   |
+|  1.2   | Adição video teste piloto | [Ana Joyce](https://github.com/anajoyceamorim) | 10/12/2024 | [Anne de Capdeville](https://github.com/nanecapde) |  10/12/2024   |
