@@ -24,7 +24,7 @@ O modelo escolhido foi baseado em observação e entrevistas com usuários. Assi
 
 <center>
 
-**Tabela 1** - Cronograma planejado.</center>
+**Tabela 1** - Cronograma planejado.
 
 | Entrevistadores(s) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
@@ -32,6 +32,10 @@ O modelo escolhido foi baseado em observação e entrevistas com usuários. Assi
 |  [Anne de Capdeville](https://github.com/nanecapde) |   [José Oliveira](https://github.com/Jose1277)   |       20:20      |   20:30    | 15/12/2024 | Microsoft Teams |
 |  [José Oliveira](https://github.com/Jose1277)  |   [Pedro Miguel](https://github.com/pedroMADBR)  |       20:40     |     20:50      | 15/12/2024 | Microsoft Teams |
 |  [Pedro Miguel](https://github.com/pedroMADBR)  |    [Ana Joyce](https://github.com/anajoyceamorim)   |      21:00      |    21:10      | 15/12/2024  | Microsoft Teams |
+
+Fonte: [Anne de Capdeville](https://github.com/nanecapde).
+
+</center>
 
 ### Seleção dos participantes
 Os participantes são selecionados com base em características que representam o público-alvo do projeto, sendo que o entrevistado deve seguir o perfil do usuário definido. Esse critério garante a relevância das informações coletadas para a validação do storyboard.
@@ -55,7 +59,7 @@ Os achados mais relevantes serão apresentados de forma concisa, com tabelas ou 
 Com base nas conclusões da avaliação, será desenvolvido um plano de reprojeto para corrigir os problemas identificados. As alterações serão priorizadas de acordo com sua relevância e impacto. Na Tabela 2 será possível identificar um cronograma de reprojeto.
 
 <center>
-**Tabela 2** - Cronograma de reprojeto.</center>
+**Tabela 2** - Cronograma de reprojeto.
 
 | Executor(a) do Reprojeto  | Horário de Início | Horário de Fim |    Data    |
 | :----------------:  | :---------------: | :------------: | :--------: |
@@ -63,6 +67,10 @@ Com base nas conclusões da avaliação, será desenvolvido um plano de reprojet
 |  [Anne de Capdeville](https://github.com/nanecapde)  |          18:50       |     19:30      | 22/12/2024 |
 |  [José Oliveira](https://github.com/Jose1277)  |         19:40   |     20:20     | 22/12/2024 |
 |  [Pedro Miguel](https://github.com/pedroMADBR) |          20:30      |     22:10      | 22/12/2024 |
+
+Fonte: [Anne de Capdeville](https://github.com/nanecapde).
+
+</center>
 
 ## Referências Bibliográficas
 
