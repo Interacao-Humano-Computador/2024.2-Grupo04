@@ -23,4 +23,4 @@ A verificação da entrega é necessária porque garante que o projeto atenda ao
 | Versão |                 Descrição                 |                     Autor(es)                     |    Data    |                     Revisor(es)                     | Data de revisão |
 | :----: | :--------------------------------------: | :-----------------------------------------------: | :--------: | :-------------------------------------------------: | :-------------: |
 |  1.0   |            Criação da página            | [Ana Joyce](https://github.com/anajoyceamorim)     | 10/12/2024 | [Pedro Miguel](https://github.com/pedroMADBR)        |   10/12/2024    |
-|  1.1   |            Revisão do grupo 5            | [Pedro Miguel](https://github.com/pedroMADBR)      | 11/12/2024 |    [Nome](https://github.com/)     |   11/12/2024    |
+|  1.1   |            Revisão do grupo 5            | [Pedro Miguel](https://github.com/pedroMADBR)      | 11/12/2024 |    [Anne de Capdeville](https://github.com/nanecapde)     |   11/12/2024    |
