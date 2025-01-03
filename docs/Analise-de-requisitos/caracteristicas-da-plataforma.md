@@ -64,4 +64,4 @@ Barbosa S. D. J., Silva B. S. da. Interação Humano-Computador. Elsevier, 2010.
 | :----: | :----------------: | :-----------------------------------------------: | :--------: | :-------------------------------------------------: | :-------------: |
 |  1.0   | Criação da página | [Ana Joyce](https://github.com/anajoyceamorim) | 02/12/2024 | [Anne de Capdeville](https://github.com/nanecapde) |   02/12/2024   |
 |  1.1   | Desenvolvimento da página | [Anne de Capdeville](https://github.com/nanecapde) | 02/12/2024 | [Ana Joyce](https://github.com/anajoyceamorim) |   03/12/2024   |
-|  1.2   | Correção da página | [Anne de Capdeville](https://github.com/nanecapde) | 02/01/2024 |  |      |
+|  1.2   | Correção da página | [Anne de Capdeville](https://github.com/nanecapde) | 02/01/2024 | [Pedro Miguel](https://github.com/pedromadbr) | 03/01/2025 |
